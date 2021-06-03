@@ -1,0 +1,1894 @@
+GEO Type: DATABASE
+GEO Id: Geo
+Database_email: geo@ncbi.nlm.nih.gov
+
+Database_institute: NCBI NLM NIH
+
+Database_name: Gene Expression Omnibus (GEO)
+
+Database_ref: Nucleic Acids Res. 2005 Jan 1;33 Databas
+e Issue:D562-6
+
+Database_web_link: http://www.ncbi.nlm.nih.gov/geo
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'Database_name': 'Gene Expression Omnibus (GEO)', 'Database_institute': 'NCBI NLM NIH', 'Database_web_link': 'http://www.ncbi.nlm.nih.gov/geo', 'Database_email': 'geo@ncbi.nlm.nih.gov', 'Database_ref': 'Nucleic Acids Res. 2005 Jan 1;33 Database Issue:D562-6'}GEO Type: DATASET
+GEO Id: GDS4296
+dataset_channel_count: 1
+
+dataset_description: Analysis of cell lines from 9 different 
+cancer tissue of origin types (Breast, Central Nervous System, Colon, Leukemia, 
+Melanoma, Non-Small Cell Lung, Ovarian, Prostate, and Renal) from the NCI-60 pan
+el. Results provide insight into molecular mechanisms underlying the various can
+cer types.
+
+dataset_feature_count: 54675
+
+dataset_order: none
+
+dataset_platform: GPL570
+
+dataset_platform_organism: Homo sapiens
+
+dataset_platform_technology_type: in situ oligonucleotide
+
+dataset_pubmed_id: 19584232
+
+dataset_reference_series: GSE32474
+
+dataset_sample_count: 174
+
+dataset_sample_organism: Homo sapiens
+
+dataset_sample_type: RNA
+
+dataset_title: NCI-60 cancer cell line panel
+
+dataset_type: Expression profiling by array
+
+dataset_update_date: Mar 15 2013
+
+dataset_value_type: transformed count
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'dataset_title': 'NCI-60 cancer cell line panel', 'dataset_description': 'Analysis of cell lines from 9 different cancer tissue of origin types (Breast, Central Nervous System, Colon, Leukemia, Melanoma, Non-Small Cell Lung, Ovarian, Prostate, and Renal) from the NCI-60 panel. Results provide insight into molecular mechanisms underlying the various cancer types.', 'dataset_type': 'Expression profiling by array', 'dataset_pubmed_id': '19584232', 'dataset_platform': 'GPL570', 'dataset_platform_organism': 'Homo sapiens', 'dataset_platform_technology_type': 'in situ oligonucleotide', 'dataset_feature_count': '54675', 'dataset_sample_organism': 'Homo sapiens', 'dataset_sample_type': 'RNA', 'dataset_channel_count': '1', 'dataset_sample_count': '174', 'dataset_value_type': 'transformed count', 'dataset_reference_series': 'GSE32474', 'dataset_order': 'none', 'dataset_update_date': 'Mar 15 2013'}GEO Type: SUBSET
+GEO Id: GDS4296_1
+subset_dataset_id: GDS4296
+
+subset_description: CCRF_CEM
+
+subset_sample_id: GSM803615,GSM803674,GSM803733
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'CCRF_CEM', 'subset_sample_id': 'GSM803615,GSM803674,GSM803733', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_2
+subset_dataset_id: GDS4296
+
+subset_description: HL_60
+
+subset_sample_id: GSM803616,GSM803675,GSM803734
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'HL_60', 'subset_sample_id': 'GSM803616,GSM803675,GSM803734', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_3
+subset_dataset_id: GDS4296
+
+subset_description: MOLT_4
+
+subset_sample_id: GSM803617,GSM803676,GSM803735
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'MOLT_4', 'subset_sample_id': 'GSM803617,GSM803676,GSM803735', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_4
+subset_dataset_id: GDS4296
+
+subset_description: RPMI_8226
+
+subset_sample_id: GSM803618,GSM803677,GSM803736
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'RPMI_8226', 'subset_sample_id': 'GSM803618,GSM803677,GSM803736', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_5
+subset_dataset_id: GDS4296
+
+subset_description: SR
+
+subset_sample_id: GSM803619,GSM803678,GSM803737
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'SR', 'subset_sample_id': 'GSM803619,GSM803678,GSM803737', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_6
+subset_dataset_id: GDS4296
+
+subset_description: K_562
+
+subset_sample_id: GSM803620,GSM803679,GSM803738
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'K_562', 'subset_sample_id': 'GSM803620,GSM803679,GSM803738', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_7
+subset_dataset_id: GDS4296
+
+subset_description: BT_549
+
+subset_sample_id: GSM803621,GSM803680,GSM803739
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'BT_549', 'subset_sample_id': 'GSM803621,GSM803680,GSM803739', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_8
+subset_dataset_id: GDS4296
+
+subset_description: HS578T
+
+subset_sample_id: GSM803622,GSM803681,GSM803740
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'HS578T', 'subset_sample_id': 'GSM803622,GSM803681,GSM803740', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_9
+subset_dataset_id: GDS4296
+
+subset_description: MCF7
+
+subset_sample_id: GSM803623,GSM803682,GSM803741
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'MCF7', 'subset_sample_id': 'GSM803623,GSM803682,GSM803741', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_10
+subset_dataset_id: GDS4296
+
+subset_description: NCI_ADR_RES
+
+subset_sample_id: GSM803624,GSM803683,GSM803742
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'NCI_ADR_RES', 'subset_sample_id': 'GSM803624,GSM803683,GSM803742', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_11
+subset_dataset_id: GDS4296
+
+subset_description: MDA_MB_231
+
+subset_sample_id: GSM803625,GSM803684,GSM803743
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'MDA_MB_231', 'subset_sample_id': 'GSM803625,GSM803684,GSM803743', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_12
+subset_dataset_id: GDS4296
+
+subset_description: MDA_MB_435
+
+subset_sample_id: GSM803626,GSM803685,GSM803744
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'MDA_MB_435', 'subset_sample_id': 'GSM803626,GSM803685,GSM803744', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_13
+subset_dataset_id: GDS4296
+
+subset_description: SF_268
+
+subset_sample_id: GSM803627,GSM803686,GSM803745
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'SF_268', 'subset_sample_id': 'GSM803627,GSM803686,GSM803745', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_14
+subset_dataset_id: GDS4296
+
+subset_description: SF_295
+
+subset_sample_id: GSM803628,GSM803687,GSM803746
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'SF_295', 'subset_sample_id': 'GSM803628,GSM803687,GSM803746', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_15
+subset_dataset_id: GDS4296
+
+subset_description: SF_539
+
+subset_sample_id: GSM803629,GSM803688,GSM803747
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'SF_539', 'subset_sample_id': 'GSM803629,GSM803688,GSM803747', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_16
+subset_dataset_id: GDS4296
+
+subset_description: SNB_19
+
+subset_sample_id: GSM803630,GSM803689,GSM803748
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'SNB_19', 'subset_sample_id': 'GSM803630,GSM803689,GSM803748', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_17
+subset_dataset_id: GDS4296
+
+subset_description: SNB_75
+
+subset_sample_id: GSM803631,GSM803690,GSM803749
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'SNB_75', 'subset_sample_id': 'GSM803631,GSM803690,GSM803749', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_18
+subset_dataset_id: GDS4296
+
+subset_description: U251
+
+subset_sample_id: GSM803632,GSM803691,GSM803750
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'U251', 'subset_sample_id': 'GSM803632,GSM803691,GSM803750', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_19
+subset_dataset_id: GDS4296
+
+subset_description: COLO205
+
+subset_sample_id: GSM803633,GSM803692,GSM803751
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'COLO205', 'subset_sample_id': 'GSM803633,GSM803692,GSM803751', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_20
+subset_dataset_id: GDS4296
+
+subset_description: HCC_2998
+
+subset_sample_id: GSM803634,GSM803693,GSM803752
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'HCC_2998', 'subset_sample_id': 'GSM803634,GSM803693,GSM803752', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_21
+subset_dataset_id: GDS4296
+
+subset_description: HCT_116
+
+subset_sample_id: GSM803635,GSM803694,GSM803753
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'HCT_116', 'subset_sample_id': 'GSM803635,GSM803694,GSM803753', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_22
+subset_dataset_id: GDS4296
+
+subset_description: HCT_15
+
+subset_sample_id: GSM803636,GSM803695,GSM803754
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'HCT_15', 'subset_sample_id': 'GSM803636,GSM803695,GSM803754', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_23
+subset_dataset_id: GDS4296
+
+subset_description: HT29
+
+subset_sample_id: GSM803637,GSM803696,GSM803755
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'HT29', 'subset_sample_id': 'GSM803637,GSM803696,GSM803755', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_24
+subset_dataset_id: GDS4296
+
+subset_description: KM12
+
+subset_sample_id: GSM803638,GSM803697,GSM803756
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'KM12', 'subset_sample_id': 'GSM803638,GSM803697,GSM803756', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_25
+subset_dataset_id: GDS4296
+
+subset_description: SW_620
+
+subset_sample_id: GSM803639,GSM803698,GSM803757
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'SW_620', 'subset_sample_id': 'GSM803639,GSM803698,GSM803757', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_26
+subset_dataset_id: GDS4296
+
+subset_description: 786_0
+
+subset_sample_id: GSM803640,GSM803699,GSM803758
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': '786_0', 'subset_sample_id': 'GSM803640,GSM803699,GSM803758', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_27
+subset_dataset_id: GDS4296
+
+subset_description: A498
+
+subset_sample_id: GSM803641,GSM803700,GSM803759
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'A498', 'subset_sample_id': 'GSM803641,GSM803700,GSM803759', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_28
+subset_dataset_id: GDS4296
+
+subset_description: ACHN
+
+subset_sample_id: GSM803642,GSM803701,GSM803760
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'ACHN', 'subset_sample_id': 'GSM803642,GSM803701,GSM803760', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_29
+subset_dataset_id: GDS4296
+
+subset_description: CAKI_1
+
+subset_sample_id: GSM803643,GSM803702
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'CAKI_1', 'subset_sample_id': 'GSM803643,GSM803702', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_30
+subset_dataset_id: GDS4296
+
+subset_description: RXF_393
+
+subset_sample_id: GSM803644,GSM803703,GSM803761
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'RXF_393', 'subset_sample_id': 'GSM803644,GSM803703,GSM803761', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_31
+subset_dataset_id: GDS4296
+
+subset_description: SN12C
+
+subset_sample_id: GSM803645,GSM803704,GSM803762
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'SN12C', 'subset_sample_id': 'GSM803645,GSM803704,GSM803762', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_32
+subset_dataset_id: GDS4296
+
+subset_description: TK_10
+
+subset_sample_id: GSM803646,GSM803705,GSM803763
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'TK_10', 'subset_sample_id': 'GSM803646,GSM803705,GSM803763', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_33
+subset_dataset_id: GDS4296
+
+subset_description: UO_31
+
+subset_sample_id: GSM803647,GSM803706,GSM803764
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'UO_31', 'subset_sample_id': 'GSM803647,GSM803706,GSM803764', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_34
+subset_dataset_id: GDS4296
+
+subset_description: A549
+
+subset_sample_id: GSM803648,GSM803707,GSM803765
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'A549', 'subset_sample_id': 'GSM803648,GSM803707,GSM803765', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_35
+subset_dataset_id: GDS4296
+
+subset_description: EKVX
+
+subset_sample_id: GSM803649,GSM803708,GSM803766
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'EKVX', 'subset_sample_id': 'GSM803649,GSM803708,GSM803766', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_36
+subset_dataset_id: GDS4296
+
+subset_description: HOP_62
+
+subset_sample_id: GSM803650,GSM803709,GSM803767
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'HOP_62', 'subset_sample_id': 'GSM803650,GSM803709,GSM803767', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_37
+subset_dataset_id: GDS4296
+
+subset_description: HOP_92
+
+subset_sample_id: GSM803651,GSM803710,GSM803768
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'HOP_92', 'subset_sample_id': 'GSM803651,GSM803710,GSM803768', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_38
+subset_dataset_id: GDS4296
+
+subset_description: NCI_H226
+
+subset_sample_id: GSM803652,GSM803711
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'NCI_H226', 'subset_sample_id': 'GSM803652,GSM803711', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_39
+subset_dataset_id: GDS4296
+
+subset_description: NCI_H23
+
+subset_sample_id: GSM803653,GSM803712,GSM803769
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'NCI_H23', 'subset_sample_id': 'GSM803653,GSM803712,GSM803769', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_40
+subset_dataset_id: GDS4296
+
+subset_description: NCI_H322M
+
+subset_sample_id: GSM803654,GSM803713,GSM803770
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'NCI_H322M', 'subset_sample_id': 'GSM803654,GSM803713,GSM803770', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_41
+subset_dataset_id: GDS4296
+
+subset_description: NCI_H460
+
+subset_sample_id: GSM803655,GSM803714,GSM803771
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'NCI_H460', 'subset_sample_id': 'GSM803655,GSM803714,GSM803771', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_42
+subset_dataset_id: GDS4296
+
+subset_description: NCI_H522
+
+subset_sample_id: GSM803656,GSM803715,GSM803772
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'NCI_H522', 'subset_sample_id': 'GSM803656,GSM803715,GSM803772', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_43
+subset_dataset_id: GDS4296
+
+subset_description: IGROV1
+
+subset_sample_id: GSM803657,GSM803716,GSM803773
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'IGROV1', 'subset_sample_id': 'GSM803657,GSM803716,GSM803773', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_44
+subset_dataset_id: GDS4296
+
+subset_description: OVCAR_3
+
+subset_sample_id: GSM803658,GSM803717,GSM803774
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'OVCAR_3', 'subset_sample_id': 'GSM803658,GSM803717,GSM803774', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_45
+subset_dataset_id: GDS4296
+
+subset_description: OVCAR_4
+
+subset_sample_id: GSM803659,GSM803718,GSM803775
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'OVCAR_4', 'subset_sample_id': 'GSM803659,GSM803718,GSM803775', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_46
+subset_dataset_id: GDS4296
+
+subset_description: OVCAR_5
+
+subset_sample_id: GSM803660,GSM803719,GSM803776
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'OVCAR_5', 'subset_sample_id': 'GSM803660,GSM803719,GSM803776', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_47
+subset_dataset_id: GDS4296
+
+subset_description: OVCAR_8
+
+subset_sample_id: GSM803661,GSM803720,GSM803777
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'OVCAR_8', 'subset_sample_id': 'GSM803661,GSM803720,GSM803777', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_48
+subset_dataset_id: GDS4296
+
+subset_description: SK_OV_3
+
+subset_sample_id: GSM803662,GSM803732,GSM803778
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'SK_OV_3', 'subset_sample_id': 'GSM803662,GSM803732,GSM803778', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_49
+subset_dataset_id: GDS4296
+
+subset_description: DU_145(DTP)
+
+subset_sample_id: GSM803663,GSM803721,GSM803779
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'DU_145(DTP)', 'subset_sample_id': 'GSM803663,GSM803721,GSM803779', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_50
+subset_dataset_id: GDS4296
+
+subset_description: PC_3
+
+subset_sample_id: GSM803664,GSM803722,GSM803780
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'PC_3', 'subset_sample_id': 'GSM803664,GSM803722,GSM803780', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_51
+subset_dataset_id: GDS4296
+
+subset_description: LOXIMVI
+
+subset_sample_id: GSM803665,GSM803723,GSM803781
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'LOXIMVI', 'subset_sample_id': 'GSM803665,GSM803723,GSM803781', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_52
+subset_dataset_id: GDS4296
+
+subset_description: M14
+
+subset_sample_id: GSM803666,GSM803724,GSM803782
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'M14', 'subset_sample_id': 'GSM803666,GSM803724,GSM803782', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_53
+subset_dataset_id: GDS4296
+
+subset_description: MALME_3M
+
+subset_sample_id: GSM803667,GSM803725,GSM803783
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'MALME_3M', 'subset_sample_id': 'GSM803667,GSM803725,GSM803783', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_54
+subset_dataset_id: GDS4296
+
+subset_description: SK_MEL_2
+
+subset_sample_id: GSM803668,GSM803726,GSM803784
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'SK_MEL_2', 'subset_sample_id': 'GSM803668,GSM803726,GSM803784', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_55
+subset_dataset_id: GDS4296
+
+subset_description: SK_MEL_28
+
+subset_sample_id: GSM803669,GSM803727
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'SK_MEL_28', 'subset_sample_id': 'GSM803669,GSM803727', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_56
+subset_dataset_id: GDS4296
+
+subset_description: SK_MEL_5
+
+subset_sample_id: GSM803670,GSM803728,GSM803785
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'SK_MEL_5', 'subset_sample_id': 'GSM803670,GSM803728,GSM803785', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_57
+subset_dataset_id: GDS4296
+
+subset_description: UACC_257
+
+subset_sample_id: GSM803671,GSM803729,GSM803786
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'UACC_257', 'subset_sample_id': 'GSM803671,GSM803729,GSM803786', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_58
+subset_dataset_id: GDS4296
+
+subset_description: UACC_62
+
+subset_sample_id: GSM803672,GSM803730,GSM803787
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'UACC_62', 'subset_sample_id': 'GSM803672,GSM803730,GSM803787', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_59
+subset_dataset_id: GDS4296
+
+subset_description: T47D
+
+subset_sample_id: GSM803673,GSM803731,GSM803788
+
+subset_type: cell line
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'T47D', 'subset_sample_id': 'GSM803673,GSM803731,GSM803788', 'subset_type': 'cell line'}GEO Type: SUBSET
+GEO Id: GDS4296_60
+subset_dataset_id: GDS4296
+
+subset_description: breast
+
+subset_sample_id: GSM803621,GSM803680,GSM803739,GSM803622,
+GSM803681,GSM803740,GSM803623,GSM803682,GSM803741,GSM803625,GSM803684,GSM803743,
+GSM803673,GSM803731,GSM803788
+
+subset_type: tissue
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'breast', 'subset_sample_id': 'GSM803621,GSM803680,GSM803739,GSM803622,GSM803681,GSM803740,GSM803623,GSM803682,GSM803741,GSM803625,GSM803684,GSM803743,GSM803673,GSM803731,GSM803788', 'subset_type': 'tissue'}GEO Type: SUBSET
+GEO Id: GDS4296_61
+subset_dataset_id: GDS4296
+
+subset_description: CNS
+
+subset_sample_id: GSM803627,GSM803686,GSM803745,GSM803628,
+GSM803687,GSM803746,GSM803629,GSM803688,GSM803747,GSM803630,GSM803689,GSM803748,
+GSM803631,GSM803690,GSM803749,GSM803632,GSM803691,GSM803750
+
+subset_type: tissue
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'CNS', 'subset_sample_id': 'GSM803627,GSM803686,GSM803745,GSM803628,GSM803687,GSM803746,GSM803629,GSM803688,GSM803747,GSM803630,GSM803689,GSM803748,GSM803631,GSM803690,GSM803749,GSM803632,GSM803691,GSM803750', 'subset_type': 'tissue'}GEO Type: SUBSET
+GEO Id: GDS4296_62
+subset_dataset_id: GDS4296
+
+subset_description: colon
+
+subset_sample_id: GSM803633,GSM803692,GSM803751,GSM803634,
+GSM803693,GSM803752,GSM803635,GSM803694,GSM803753,GSM803636,GSM803695,GSM803754,
+GSM803637,GSM803696,GSM803755,GSM803638,GSM803697,GSM803756,GSM803639,GSM803698,
+GSM803757
+
+subset_type: tissue
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'colon', 'subset_sample_id': 'GSM803633,GSM803692,GSM803751,GSM803634,GSM803693,GSM803752,GSM803635,GSM803694,GSM803753,GSM803636,GSM803695,GSM803754,GSM803637,GSM803696,GSM803755,GSM803638,GSM803697,GSM803756,GSM803639,GSM803698,GSM803757', 'subset_type': 'tissue'}GEO Type: SUBSET
+GEO Id: GDS4296_63
+subset_dataset_id: GDS4296
+
+subset_description: leukemia
+
+subset_sample_id: GSM803615,GSM803674,GSM803733,GSM803616,
+GSM803675,GSM803734,GSM803620,GSM803679,GSM803738,GSM803617,GSM803676,GSM803735,
+GSM803618,GSM803677,GSM803736,GSM803619,GSM803678,GSM803737
+
+subset_type: tissue
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'leukemia', 'subset_sample_id': 'GSM803615,GSM803674,GSM803733,GSM803616,GSM803675,GSM803734,GSM803620,GSM803679,GSM803738,GSM803617,GSM803676,GSM803735,GSM803618,GSM803677,GSM803736,GSM803619,GSM803678,GSM803737', 'subset_type': 'tissue'}GEO Type: SUBSET
+GEO Id: GDS4296_64
+subset_dataset_id: GDS4296
+
+subset_description: non-small cell lung
+
+subset_sample_id: GSM803648,GSM803707,GSM803765,GSM803649,
+GSM803708,GSM803766,GSM803650,GSM803709,GSM803767,GSM803651,GSM803710,GSM803768,
+GSM803652,GSM803711,GSM803653,GSM803712,GSM803769,GSM803654,GSM803713,GSM803770,
+GSM803655,GSM803714,GSM803771,GSM803656,GSM803715,GSM803772
+
+subset_type: tissue
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'non-small cell lung', 'subset_sample_id': 'GSM803648,GSM803707,GSM803765,GSM803649,GSM803708,GSM803766,GSM803650,GSM803709,GSM803767,GSM803651,GSM803710,GSM803768,GSM803652,GSM803711,GSM803653,GSM803712,GSM803769,GSM803654,GSM803713,GSM803770,GSM803655,GSM803714,GSM803771,GSM803656,GSM803715,GSM803772', 'subset_type': 'tissue'}GEO Type: SUBSET
+GEO Id: GDS4296_65
+subset_dataset_id: GDS4296
+
+subset_description: melanoma
+
+subset_sample_id: GSM803665,GSM803723,GSM803781,GSM803666,
+GSM803724,GSM803782,GSM803667,GSM803725,GSM803783,GSM803626,GSM803685,GSM803744,
+GSM803668,GSM803726,GSM803784,GSM803669,GSM803727,GSM803670,GSM803728,GSM803785,
+GSM803671,GSM803729,GSM803786,GSM803672,GSM803730,GSM803787
+
+subset_type: tissue
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'melanoma', 'subset_sample_id': 'GSM803665,GSM803723,GSM803781,GSM803666,GSM803724,GSM803782,GSM803667,GSM803725,GSM803783,GSM803626,GSM803685,GSM803744,GSM803668,GSM803726,GSM803784,GSM803669,GSM803727,GSM803670,GSM803728,GSM803785,GSM803671,GSM803729,GSM803786,GSM803672,GSM803730,GSM803787', 'subset_type': 'tissue'}GEO Type: SUBSET
+GEO Id: GDS4296_66
+subset_dataset_id: GDS4296
+
+subset_description: ovarian
+
+subset_sample_id: GSM803657,GSM803716,GSM803773,GSM803624,
+GSM803683,GSM803742,GSM803658,GSM803717,GSM803774,GSM803659,GSM803718,GSM803775,
+GSM803660,GSM803719,GSM803776,GSM803661,GSM803720,GSM803777,GSM803662,GSM803732,
+GSM803778
+
+subset_type: tissue
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'ovarian', 'subset_sample_id': 'GSM803657,GSM803716,GSM803773,GSM803624,GSM803683,GSM803742,GSM803658,GSM803717,GSM803774,GSM803659,GSM803718,GSM803775,GSM803660,GSM803719,GSM803776,GSM803661,GSM803720,GSM803777,GSM803662,GSM803732,GSM803778', 'subset_type': 'tissue'}GEO Type: SUBSET
+GEO Id: GDS4296_67
+subset_dataset_id: GDS4296
+
+subset_description: prostate
+
+subset_sample_id: GSM803663,GSM803721,GSM803779,GSM803664,
+GSM803722,GSM803780
+
+subset_type: tissue
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'prostate', 'subset_sample_id': 'GSM803663,GSM803721,GSM803779,GSM803664,GSM803722,GSM803780', 'subset_type': 'tissue'}GEO Type: SUBSET
+GEO Id: GDS4296_68
+subset_dataset_id: GDS4296
+
+subset_description: renal
+
+subset_sample_id: GSM803640,GSM803699,GSM803758,GSM803641,
+GSM803700,GSM803759,GSM803642,GSM803701,GSM803760,GSM803643,GSM803702,GSM803644,
+GSM803703,GSM803761,GSM803645,GSM803704,GSM803762,GSM803646,GSM803705,GSM803763,
+GSM803647,GSM803706,GSM803764
+
+subset_type: tissue
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'renal', 'subset_sample_id': 'GSM803640,GSM803699,GSM803758,GSM803641,GSM803700,GSM803759,GSM803642,GSM803701,GSM803760,GSM803643,GSM803702,GSM803644,GSM803703,GSM803761,GSM803645,GSM803704,GSM803762,GSM803646,GSM803705,GSM803763,GSM803647,GSM803706,GSM803764', 'subset_type': 'tissue'}GEO Type: SUBSET
+GEO Id: GDS4296_69
+subset_dataset_id: GDS4296
+
+subset_description: Adenocarcinoma
+
+subset_sample_id: GSM803633,GSM803636,GSM803637,GSM803692,
+GSM803695,GSM803696,GSM803751,GSM803754,GSM803755,GSM803648,GSM803649,GSM803653,
+GSM803656,GSM803707,GSM803708,GSM803712,GSM803715,GSM803765,GSM803766,GSM803769,
+GSM803772,GSM803624,GSM803658,GSM803659,GSM803660,GSM803662,GSM803683,GSM803717,
+GSM803718,GSM803719,GSM803732,GSM803742,GSM803774,GSM803775,GSM803776,GSM803778,
+GSM803640,GSM803641,GSM803699,GSM803700,GSM803758,GSM803759,GSM803638,GSM803697,
+GSM803756,GSM803650,GSM803709,GSM803767
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Adenocarcinoma', 'subset_sample_id': 'GSM803633,GSM803636,GSM803637,GSM803692,GSM803695,GSM803696,GSM803751,GSM803754,GSM803755,GSM803648,GSM803649,GSM803653,GSM803656,GSM803707,GSM803708,GSM803712,GSM803715,GSM803765,GSM803766,GSM803769,GSM803772,GSM803624,GSM803658,GSM803659,GSM803660,GSM803662,GSM803683,GSM803717,GSM803718,GSM803719,GSM803732,GSM803742,GSM803774,GSM803775,GSM803776,GSM803778,GSM803640,GSM803641,GSM803699,GSM803700,GSM803758,GSM803759,GSM803638,GSM803697,GSM803756,GSM803650,GSM803709,GSM803767', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_70
+subset_dataset_id: GDS4296
+
+subset_description: Adenocarcinoma
+
+subset_sample_id: GSM803625,GSM803684,GSM803743,GSM803623,
+GSM803682,GSM803741
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Adenocarcinoma', 'subset_sample_id': 'GSM803625,GSM803684,GSM803743,GSM803623,GSM803682,GSM803741', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_71
+subset_dataset_id: GDS4296
+
+subset_description: Adenocarcinoma
+
+subset_sample_id: GSM803664,GSM803722,GSM803780,GSM803663,
+GSM803721,GSM803779
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Adenocarcinoma', 'subset_sample_id': 'GSM803664,GSM803722,GSM803780,GSM803663,GSM803721,GSM803779', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_72
+subset_dataset_id: GDS4296
+
+subset_description: Acute lymphoblastic leukemia
+
+subset_sample_id: GSM803615,GSM803617,GSM803674,GSM803676,
+GSM803733,GSM803735
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Acute lymphoblastic leukemia', 'subset_sample_id': 'GSM803615,GSM803617,GSM803674,GSM803676,GSM803733,GSM803735', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_73
+subset_dataset_id: GDS4296
+
+subset_description: Astrocytoma
+
+subset_sample_id: GSM803631,GSM803690,GSM803749
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Astrocytoma', 'subset_sample_id': 'GSM803631,GSM803690,GSM803749', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_74
+subset_dataset_id: GDS4296
+
+subset_description: Chronic myelogenous leukemia
+
+subset_sample_id: GSM803620,GSM803679,GSM803738
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Chronic myelogenous leukemia', 'subset_sample_id': 'GSM803620,GSM803679,GSM803738', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_75
+subset_dataset_id: GDS4296
+
+subset_description: Carcinoma
+
+subset_sample_id: GSM803639,GSM803698,GSM803757,GSM803661,
+GSM803720,GSM803777,GSM803634,GSM803635,GSM803693,GSM803694,GSM803752,GSM803753
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Carcinoma', 'subset_sample_id': 'GSM803639,GSM803698,GSM803757,GSM803661,GSM803720,GSM803777,GSM803634,GSM803635,GSM803693,GSM803694,GSM803752,GSM803753', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_76
+subset_dataset_id: GDS4296
+
+subset_description: Carcinosarcoma
+
+subset_sample_id: GSM803622,GSM803681,GSM803740
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Carcinosarcoma', 'subset_sample_id': 'GSM803622,GSM803681,GSM803740', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_77
+subset_dataset_id: GDS4296
+
+subset_description: Clear cell carcinoma
+
+subset_sample_id: GSM803643,GSM803702
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Clear cell carcinoma', 'subset_sample_id': 'GSM803643,GSM803702', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_78
+subset_dataset_id: GDS4296
+
+subset_description: Cystoadenocarcinoma
+
+subset_sample_id: GSM803657,GSM803716,GSM803773
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Cystoadenocarcinoma', 'subset_sample_id': 'GSM803657,GSM803716,GSM803773', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_79
+subset_dataset_id: GDS4296
+
+subset_description: Ductal carcinoma
+
+subset_sample_id: GSM803626,GSM803685,GSM803744
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Ductal carcinoma', 'subset_sample_id': 'GSM803626,GSM803685,GSM803744', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_80
+subset_dataset_id: GDS4296
+
+subset_description: Glial cell neoplasm
+
+subset_sample_id: GSM803629,GSM803688,GSM803747
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Glial cell neoplasm', 'subset_sample_id': 'GSM803629,GSM803688,GSM803747', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_81
+subset_dataset_id: GDS4296
+
+subset_description: Glioblastoma
+
+subset_sample_id: GSM803627,GSM803628,GSM803630,GSM803632,
+GSM803686,GSM803687,GSM803689,GSM803691,GSM803745,GSM803746,GSM803748,GSM803750
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Glioblastoma', 'subset_sample_id': 'GSM803627,GSM803628,GSM803630,GSM803632,GSM803686,GSM803687,GSM803689,GSM803691,GSM803745,GSM803746,GSM803748,GSM803750', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_82
+subset_dataset_id: GDS4296
+
+subset_description: Large cell carcinoma
+
+subset_sample_id: GSM803655,GSM803714,GSM803771,GSM803651,
+GSM803710,GSM803768
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Large cell carcinoma', 'subset_sample_id': 'GSM803655,GSM803714,GSM803771,GSM803651,GSM803710,GSM803768', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_83
+subset_dataset_id: GDS4296
+
+subset_description: Lymphoma
+
+subset_sample_id: GSM803619,GSM803678,GSM803737
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Lymphoma', 'subset_sample_id': 'GSM803619,GSM803678,GSM803737', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_84
+subset_dataset_id: GDS4296
+
+subset_description: Malignant amelanotic melanoma
+
+subset_sample_id: GSM803665,GSM803723,GSM803781
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Malignant amelanotic melanoma', 'subset_sample_id': 'GSM803665,GSM803723,GSM803781', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_85
+subset_dataset_id: GDS4296
+
+subset_description: Malignant melanotic melanoma
+
+subset_sample_id: GSM803667,GSM803668,GSM803669,GSM803670,
+GSM803725,GSM803726,GSM803727,GSM803728,GSM803783,GSM803784,GSM803785
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Malignant melanotic melanoma', 'subset_sample_id': 'GSM803667,GSM803668,GSM803669,GSM803670,GSM803725,GSM803726,GSM803727,GSM803728,GSM803783,GSM803784,GSM803785', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_86
+subset_dataset_id: GDS4296
+
+subset_description: Melanotic melanoma
+
+subset_sample_id: GSM803666,GSM803671,GSM803672,GSM803724,
+GSM803729,GSM803730,GSM803782,GSM803786,GSM803787
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Melanotic melanoma', 'subset_sample_id': 'GSM803666,GSM803671,GSM803672,GSM803724,GSM803729,GSM803730,GSM803782,GSM803786,GSM803787', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_87
+subset_dataset_id: GDS4296
+
+subset_description: Myeloma
+
+subset_sample_id: GSM803618,GSM803677,GSM803736
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Myeloma', 'subset_sample_id': 'GSM803618,GSM803677,GSM803736', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_88
+subset_dataset_id: GDS4296
+
+subset_description: Papillary infiltrating ductal carcinoma
+
+subset_sample_id: GSM803621,GSM803680,GSM803739
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Papillary infiltrating ductal carcinoma', 'subset_sample_id': 'GSM803621,GSM803680,GSM803739', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_89
+subset_dataset_id: GDS4296
+
+subset_description: Pro myelocytic leukemia
+
+subset_sample_id: GSM803616,GSM803675,GSM803734
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Pro myelocytic leukemia', 'subset_sample_id': 'GSM803616,GSM803675,GSM803734', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_90
+subset_dataset_id: GDS4296
+
+subset_description: Renal spindle cell carcinoma
+
+subset_sample_id: GSM803646,GSM803705,GSM803763
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Renal spindle cell carcinoma', 'subset_sample_id': 'GSM803646,GSM803705,GSM803763', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_91
+subset_dataset_id: GDS4296
+
+subset_description: Renal cell carcinoma
+
+subset_sample_id: GSM803642,GSM803645,GSM803647,GSM803701,
+GSM803704,GSM803706,GSM803760,GSM803762,GSM803764
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Renal cell carcinoma', 'subset_sample_id': 'GSM803642,GSM803645,GSM803647,GSM803701,GSM803704,GSM803706,GSM803760,GSM803762,GSM803764', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_92
+subset_dataset_id: GDS4296
+
+subset_description: Small cell bronchioalveolar carcinoma
+
+subset_sample_id: GSM803654,GSM803713,GSM803770
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Small cell bronchioalveolar carcinoma', 'subset_sample_id': 'GSM803654,GSM803713,GSM803770', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_93
+subset_dataset_id: GDS4296
+
+subset_description: Squamous cell carcinoma
+
+subset_sample_id: GSM803652,GSM803711
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Squamous cell carcinoma', 'subset_sample_id': 'GSM803652,GSM803711', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_94
+subset_dataset_id: GDS4296
+
+subset_description: Hypernephroma
+
+subset_sample_id: GSM803644,GSM803703,GSM803761
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Hypernephroma', 'subset_sample_id': 'GSM803644,GSM803703,GSM803761', 'subset_type': 'disease state'}GEO Type: SUBSET
+GEO Id: GDS4296_95
+subset_dataset_id: GDS4296
+
+subset_description: Infiltrating ductal carcinoma
+
+subset_sample_id: GSM803673,GSM803731,GSM803788
+
+subset_type: disease state
+
+Column Header Definitions
+
+---------------------- ENTITY_ATTRIBUTES:------------------------------
+{'subset_dataset_id': 'GDS4296', 'subset_description': 'Infiltrating ductal carcinoma', 'subset_sample_id': 'GSM803673,GSM803731,GSM803788', 'subset_type': 'disease state'}GEO Type: DATASET
+GEO Id: GDS4296
+dataset_table_begin: 
+
+dataset_table_end: 
+
+Column Header Definitions
+    GSM803615: Value for GSM803615: LE:CCRF_CEM [113384
+    hp133a11]; src: ALL
+
+    GSM803616: Value for GSM803616: LE:HL_60 [113385hp1
+    33a11]; src: Pro myelocytic leukemia
+
+    GSM803617: Value for GSM803617: LE:MOLT_4 [113386hp
+    133a21]; src: ALL
+
+    GSM803618: Value for GSM803618: LE:RPMI_8226 [11338
+    7hp133a11]; src: Myeloma
+
+    GSM803619: Value for GSM803619: LE:SR [113388hp133a
+    11]; src: Lymphoma
+
+    GSM803620: Value for GSM803620: LE:K_562 [113389hp1
+    33a11]; src: CML
+
+    GSM803621: Value for GSM803621: BR:BT_549 [113390hp
+    133a11]; src: Papillary infiltrating ductal carcinoma-mammary gland; breast
+
+    GSM803622: Value for GSM803622: BR:HS578T [113391hp
+    133a11]; src: Carcinosarcoma-mammary gland; breast
+
+    GSM803623: Value for GSM803623: BR:MCF7 [113392hp13
+    3a11]; src: Adenocarcinoma-mammary gland; breast; metastatic site: pleural effus
+    ion;
+
+    GSM803624: Value for GSM803624: OV:NCI_ADR_RES [113
+    393hp133a11]; src: Adenocarcinoma
+
+    GSM803625: Value for GSM803625: BR:MDA_MB_231 [1133
+    94hp133a11]; src: Adenocarcinoma-mammary gland; breast; epithelial; metastatic s
+    ite: pleural effusion;
+
+    GSM803626: Value for GSM803626: ME:MDA_MB_435 [1133
+    95hp133a11]; src: Ductal carcinoma-mammary gland; breast; duct; metastatic site:
+     pleural effusion;
+
+    GSM803627: Value for GSM803627: CNS:SF_268 [113396h
+    p133a11]; src: Glioblastoma
+
+    GSM803628: Value for GSM803628: CNS:SF_295 [113397h
+    p133a11]; src: Glioblastoma
+
+    GSM803629: Value for GSM803629: CNS:SF_539 [113398h
+    p133a11]; src: Glial cell neoplasm
+
+    GSM803630: Value for GSM803630: CNS:SNB_19 [113399h
+    p133a11]; src: Glioblastoma
+
+    GSM803631: Value for GSM803631: CNS:SNB_75 [113400h
+    p133a11]; src: Astrocytoma
+
+    GSM803632: Value for GSM803632: CNS:U251 [113401hp1
+    33a11]; src: Glioblastoma
+
+    GSM803633: Value for GSM803633: CO:COLO205 [113402h
+    p133a11]; src: Adenocarcinoma
+
+    GSM803634: Value for GSM803634: CO:HCC_2998 [113403
+    hp133a11]; src: carcinoma
+
+    GSM803635: Value for GSM803635: CO:HCT_116 [113404h
+    p133a11]; src: carcinoma
+
+    GSM803636: Value for GSM803636: CO:HCT_15 [113405hp
+    133a11]; src: Adenocarcinoma
+
+    GSM803637: Value for GSM803637: CO:HT29 [113406hp13
+    3a11]; src: Adenocarcinoma
+
+    GSM803638: Value for GSM803638: CO:KM12 [113407hp13
+    3a11]; src: Adenocarcinome
+
+    GSM803639: Value for GSM803639: CO:SW_620 [113408hp
+    133a11]; src: Carcinoma
+
+    GSM803640: Value for GSM803640: RE:786_0 [113409hp1
+    33a11]; src: Adenocarcinoma
+
+    GSM803641: Value for GSM803641: RE:A498 [113410hp13
+    3a11]; src: Adenocarcinoma
+
+    GSM803642: Value for GSM803642: RE:ACHN [113411hp13
+    3a11]; src: Renal cell carcinoma
+
+    GSM803643: Value for GSM803643: RE:CAKI_1 [113412hp
+    133a11]; src: Clear cell carcinoma
+
+    GSM803644: Value for GSM803644: RE:RXF_393 [113413h
+    p133a11]; src: hypernephroma
+
+    GSM803645: Value for GSM803645: RE:SN12C [113414hp1
+    33a11]; src: Renal cell carcinoma
+
+    GSM803646: Value for GSM803646: RE:TK_10 [113415hp1
+    33a11]; src: Renal Spindle cell carcinoma
+
+    GSM803647: Value for GSM803647: RE:UO_31 [113416hp1
+    33a11]; src: Renal cell carcinoma
+
+    GSM803648: Value for GSM803648: LC:A549 [113417hp13
+    3a11]; src: Adenocarcinoma
+
+    GSM803649: Value for GSM803649: LC:EKVX [113418hp13
+    3a21]; src: Adenocarcinoma
+
+    GSM803650: Value for GSM803650: LC:HOP_62 [113419hp
+    133a11]; src: adenocarcinoma
+
+    GSM803651: Value for GSM803651: LC:HOP_92 [113420hp
+    133a11]; src: Large cell
+
+    GSM803652: Value for GSM803652: LC:NCI_H226 [113421
+    hp133a11]; src: Squamous cell carcinoma
+
+    GSM803653: Value for GSM803653: LC:NCI_H23 [113422h
+    p133a11]; src: Adenocarcinoma
+
+    GSM803654: Value for GSM803654: LC:NCI_H322M [11342
+    3hp133a11]; src: Small cell Bronchioalveolar Carcinoma
+
+    GSM803655: Value for GSM803655: LC:NCI_H460 [113424
+    hp133a11]; src: Large Cell Carcinoma
+
+    GSM803656: Value for GSM803656: LC:NCI_H522 [113425
+    hp133a11]; src: Adenocarcinoma
+
+    GSM803657: Value for GSM803657: OV:IGROV1 [113426hp
+    133a11]; src: Cystoadenocarcinoma
+
+    GSM803658: Value for GSM803658: OV:OVCAR_3 [113427h
+    p133a21]; src: Adenocarcinoma
+
+    GSM803659: Value for GSM803659: OV:OVCAR_4 [113428h
+    p133a11]; src: Adenocarcinoma
+
+    GSM803660: Value for GSM803660: OV:OVCAR_5 [113429h
+    p133a11]; src: Adenocarcinoma
+
+    GSM803661: Value for GSM803661: OV:OVCAR_8 [113430h
+    p133a11]; src: Carcinoma
+
+    GSM803662: Value for GSM803662: OV:SK_OV_3 [113431h
+    p133a11]; src: Adenocarcinoma
+
+    GSM803663: Value for GSM803663: PR:DU_145(DTP) [113
+    432hp133a11]; src: Adenocarcinoma-prostate; metastatic site: brain; carcinoma
+
+    GSM803664: Value for GSM803664: PR:PC_3 [113433hp13
+    3a11]; src: Adenocarcinoma-prostate; metastatic site: bone;
+
+    GSM803665: Value for GSM803665: ME:LOXIMVI [113434h
+    p133a11]; src: Malignant amelanotic melanoma
+
+    GSM803666: Value for GSM803666: ME:M14 [113435hp133
+    a11]; src: Melanotic melanoma
+
+    GSM803667: Value for GSM803667: ME:MALME_3M [113436
+    hp133a11]; src: Malignant melanotic melanoma
+
+    GSM803668: Value for GSM803668: ME:SK_MEL_2 [113437
+    hp133a11]; src: Malignant melanotic melanoma
+
+    GSM803669: Value for GSM803669: ME:SK_MEL_28 [11343
+    8hp133a11]; src: Malignant melanotic melanoma
+
+    GSM803670: Value for GSM803670: ME:SK_MEL_5 [113439
+    hp133a11]; src: Malignant melanotic melanoma
+
+    GSM803671: Value for GSM803671: ME:UACC_257 [113440
+    hp133a11]; src: Melanotic melanoma
+
+    GSM803672: Value for GSM803672: ME:UACC_62 [113441h
+    p133a11]; src: Melanotic melanoma
+
+    GSM803673: Value for GSM803673: BR:T47D [113442hp13
+    3a11]; src: infiltrating ductal carcinoma
+
+    GSM803674: Value for GSM803674: LE:CCRF_CEM [113443
+    hp133a11]; src: ALL
+
+    GSM803675: Value for GSM803675: LE:HL_60 [113444hp1
+    33a11]; src: Pro myelocytic leukemia
+
+    GSM803676: Value for GSM803676: LE:MOLT_4 [113445hp
+    133a11]; src: ALL
+
+    GSM803677: Value for GSM803677: LE:RPMI_8226 [11344
+    6hp133a11]; src: Myeloma
+
+    GSM803678: Value for GSM803678: LE:SR [113447hp133a
+    11]; src: Lymphoma
+
+    GSM803679: Value for GSM803679: LE:K_562 [113448hp1
+    33a11]; src: CML
+
+    GSM803680: Value for GSM803680: BR:BT_549 [113449hp
+    133a11]; src: Papillary infiltrating ductal carcinoma-mammary gland; breast
+
+    GSM803681: Value for GSM803681: BR:HS578T [113450hp
+    133a11]; src: Carcinosarcoma-mammary gland; breast
+
+    GSM803682: Value for GSM803682: BR:MCF7 [113451hp13
+    3a11]; src: Adenocarcinoma-mammary gland; breast; metastatic site: pleural effus
+    ion;
+
+    GSM803683: Value for GSM803683: OV:NCI_ADR_RES [113
+    452hp133a11]; src: Adenocarcinoma
+
+    GSM803684: Value for GSM803684: BR:MDA_MB_231 [1134
+    53hp133a11]; src: Adenocarcinoma-mammary gland; breast; epithelial; metastatic s
+    ite: pleural effusion;
+
+    GSM803685: Value for GSM803685: ME:MDA_MB_435 [1134
+    54hp133a11]; src: Ductal carcinoma-mammary gland; breast; duct; metastatic site:
+     pleural effusion;
+
+    GSM803686: Value for GSM803686: CNS:SF_268 [113455h
+    p133a11]; src: Glioblastoma
+
+    GSM803687: Value for GSM803687: CNS:SF_295 [113456h
+    p133a11]; src: Glioblastoma
+
+    GSM803688: Value for GSM803688: CNS:SF_539 [113457h
+    p133a21]; src: Glial cell neoplasm
+
+    GSM803689: Value for GSM803689: CNS:SNB_19 [113458h
+    p133a11]; src: Glioblastoma
+
+    GSM803690: Value for GSM803690: CNS:SNB_75 [113459h
+    p133a11]; src: Astrocytoma
+
+    GSM803691: Value for GSM803691: CNS:U251 [113460hp1
+    33a11]; src: Glioblastoma
+
+    GSM803692: Value for GSM803692: CO:COLO205 [113461h
+    p133a11]; src: Adenocarcinoma
+
+    GSM803693: Value for GSM803693: CO:HCC_2998 [113462
+    hp133a11]; src: carcinoma
+
+    GSM803694: Value for GSM803694: CO:HCT_116 [113463h
+    p133a11]; src: carcinoma
+
+    GSM803695: Value for GSM803695: CO:HCT_15 [113464hp
+    133a11]; src: Adenocarcinoma
+
+    GSM803696: Value for GSM803696: CO:HT29 [113465hp13
+    3a11]; src: Adenocarcinoma
+
+    GSM803697: Value for GSM803697: CO:KM12 [113466hp13
+    3a11]; src: Adenocarcinome
+
+    GSM803698: Value for GSM803698: CO:SW_620 [113467hp
+    133a11]; src: Carcinoma
+
+    GSM803699: Value for GSM803699: RE:786_0 [113468hp1
+    33a11]; src: Adenocarcinoma
+
+    GSM803700: Value for GSM803700: RE:A498 [113469hp13
+    3a11]; src: Adenocarcinoma
+
+    GSM803701: Value for GSM803701: RE:ACHN [113470hp13
+    3a11]; src: Renal cell carcinoma
+
+    GSM803702: Value for GSM803702: RE:CAKI_1 [113471hp
+    133a11]; src: Clear cell carcinoma
+
+    GSM803703: Value for GSM803703: RE:RXF_393 [113472h
+    p133a11]; src: hypernephroma
+
+    GSM803704: Value for GSM803704: RE:SN12C [113473hp1
+    33a11]; src: Renal cell carcinoma
+
+    GSM803705: Value for GSM803705: RE:TK_10 [113474hp1
+    33a11]; src: Renal Spindle cell carcinoma
+
+    GSM803706: Value for GSM803706: RE:UO_31 [113475hp1
+    33a11]; src: Renal cell carcinoma
+
+    GSM803707: Value for GSM803707: LC:A549 [113476hp13
+    3a11]; src: Adenocarcinoma
+
+    GSM803708: Value for GSM803708: LC:EKVX [113477hp13
+    3a11]; src: Adenocarcinoma
+
+    GSM803709: Value for GSM803709: LC:HOP_62 [113478hp
+    133a11]; src: adenocarcinoma
+
+    GSM803710: Value for GSM803710: LC:HOP_92 [113479hp
+    133a11]; src: Large cell
+
+    GSM803711: Value for GSM803711: LC:NCI_H226 [113480
+    hp133a11]; src: Squamous cell carcinoma
+
+    GSM803712: Value for GSM803712: LC:NCI_H23 [113481h
+    p133a11]; src: Adenocarcinoma
+
+    GSM803713: Value for GSM803713: LC:NCI_H322M [11348
+    2hp133a11]; src: Small cell Bronchioalveolar Carcinoma
+
+    GSM803714: Value for GSM803714: LC:NCI_H460 [113483
+    hp133a11]; src: Large Cell Carcinoma
+
+    GSM803715: Value for GSM803715: LC:NCI_H522 [113484
+    hp133a11]; src: Adenocarcinoma
+
+    GSM803716: Value for GSM803716: OV:IGROV1 [113485hp
+    133a11]; src: Cystoadenocarcinoma
+
+    GSM803717: Value for GSM803717: OV:OVCAR_3 [113486h
+    p133a11]; src: Adenocarcinoma
+
+    GSM803718: Value for GSM803718: OV:OVCAR_4 [113487h
+    p133a11]; src: Adenocarcinoma
+
+    GSM803719: Value for GSM803719: OV:OVCAR_5 [113488h
+    p133a11]; src: Adenocarcinoma
+
+    GSM803720: Value for GSM803720: OV:OVCAR_8 [113489h
+    p133a11]; src: Carcinoma
+
+    GSM803721: Value for GSM803721: PR:DU_145(DTP) [113
+    490hp133a11]; src: Adenocarcinoma-prostate; metastatic site: brain; carcinoma
+
+    GSM803722: Value for GSM803722: PR:PC_3 [113491hp13
+    3a11]; src: Adenocarcinoma-prostate; metastatic site: bone;
+
+    GSM803723: Value for GSM803723: ME:LOXIMVI [113492h
+    p133a11]; src: Malignant amelanotic melanoma
+
+    GSM803724: Value for GSM803724: ME:M14 [113493hp133
+    a11]; src: Melanotic melanoma
+
+    GSM803725: Value for GSM803725: ME:MALME_3M [113494
+    hp133a11]; src: Malignant melanotic melanoma
+
+    GSM803726: Value for GSM803726: ME:SK_MEL_2 [113495
+    hp133a11]; src: Malignant melanotic melanoma
+
+    GSM803727: Value for GSM803727: ME:SK_MEL_28 [11349
+    6hp133a11]; src: Malignant melanotic melanoma
+
+    GSM803728: Value for GSM803728: ME:SK_MEL_5 [113497
+    hp133a11]; src: Malignant melanotic melanoma
+
+    GSM803729: Value for GSM803729: ME:UACC_257 [113498
+    hp133a11]; src: Melanotic melanoma
+
+    GSM803730: Value for GSM803730: ME:UACC_62 [113499h
+    p133a11]; src: Melanotic melanoma
+
+    GSM803731: Value for GSM803731: BR:T47D [113500hp13
+    3a11]; src: infiltrating ductal carcinoma
+
+    GSM803732: Value for GSM803732: OV:SK_OV_3 [116402h
+    p133a11]; src: Adenocarcinoma
+
+    GSM803733: Value for GSM803733: LE:CCRF_CEM [118169
+    hp133a11]; src: ALL
+
+    GSM803734: Value for GSM803734: LE:HL_60 [118170hp1
+    33a11]; src: Pro myelocytic leukemia
+
+    GSM803735: Value for GSM803735: LE:MOLT_4 [118171hp
+    133a11]; src: ALL
+
+    GSM803736: Value for GSM803736: LE:RPMI_8226 [11817
+    2hp133a11]; src: Myeloma
+
+    GSM803737: Value for GSM803737: LE:SR [118173hp133a
+    11]; src: Lymphoma
+
+    GSM803738: Value for GSM803738: LE:K_562 [118174hp1
+    33a11]; src: CML
+
+    GSM803739: Value for GSM803739: BR:BT_549 [118175hp
+    133a11]; src: Papillary infiltrating ductal carcinoma-mammary gland; breast
+
+    GSM803740: Value for GSM803740: BR:HS578T [118176hp
+    133a11]; src: Carcinosarcoma-mammary gland; breast
+
+    GSM803741: Value for GSM803741: BR:MCF7 [118177hp13
+    3a11]; src: Adenocarcinoma-mammary gland; breast; metastatic site: pleural effus
+    ion;
+
+    GSM803742: Value for GSM803742: OV:NCI_ADR_RES [118
+    178hp133a11]; src: Adenocarcinoma
+
+    GSM803743: Value for GSM803743: BR:MDA_MB_231 [1181
+    79hp133a11]; src: Adenocarcinoma-mammary gland; breast; epithelial; metastatic s
+    ite: pleural effusion;
+
+    GSM803744: Value for GSM803744: ME:MDA_MB_435 [1181
+    80hp133a11]; src: Ductal carcinoma-mammary gland; breast; duct; metastatic site:
+     pleural effusion;
+
+    GSM803745: Value for GSM803745: CNS:SF_268 [118181h
+    p133a11]; src: Glioblastoma
+
+    GSM803746: Value for GSM803746: CNS:SF_295 [118182h
+    p133a11]; src: Glioblastoma
+
+    GSM803747: Value for GSM803747: CNS:SF_539 [118183h
+    p133a11]; src: Glial cell neoplasm
+
+    GSM803748: Value for GSM803748: CNS:SNB_19 [118184h
+    p133a11]; src: Glioblastoma
+
+    GSM803749: Value for GSM803749: CNS:SNB_75 [118185h
+    p133a11]; src: Astrocytoma
+
+    GSM803750: Value for GSM803750: CNS:U251 [118186hp1
+    33a11]; src: Glioblastoma
+
+    GSM803751: Value for GSM803751: CO:COLO205 [118187h
+    p133a11]; src: Adenocarcinoma
+
+    GSM803752: Value for GSM803752: CO:HCC_2998 [118188
+    hp133a11]; src: carcinoma
+
+    GSM803753: Value for GSM803753: CO:HCT_116 [118189h
+    p133a11]; src: carcinoma
+
+    GSM803754: Value for GSM803754: CO:HCT_15 [118190hp
+    133a11]; src: Adenocarcinoma
+
+    GSM803755: Value for GSM803755: CO:HT29 [118191hp13
+    3a11]; src: Adenocarcinoma
+
+    GSM803756: Value for GSM803756: CO:KM12 [118192hp13
+    3a11]; src: Adenocarcinome
+
+    GSM803757: Value for GSM803757: CO:SW_620 [118193hp
+    133a11]; src: Carcinoma
+
+    GSM803758: Value for GSM803758: RE:786_0 [118194hp1
+    33a11]; src: Adenocarcinoma
+
+    GSM803759: Value for GSM803759: RE:A498 [118195hp13
+    3a11]; src: Adenocarcinoma
+
+    GSM803760: Value for GSM803760: RE:ACHN [118196hp13
+    3a11]; src: Renal cell carcinoma
+
+    GSM803761: Value for GSM803761: RE:RXF_393 [118198h
+    p133a11]; src: hypernephroma
+
+    GSM803762: Value for GSM803762: RE:SN12C [118199hp1
+    33a11]; src: Renal cell carcinoma
+
+    GSM803763: Value for GSM803763: RE:TK_10 [118200hp1
+    33a11]; src: Renal Spindle cell carcinoma
+
+    GSM803764: Value for GSM803764: RE:UO_31 [118201hp1
+    33a11]; src: Renal cell carcinoma
+
+    GSM803765: Value for GSM803765: LC:A549 [118202hp13
+    3a11]; src: Adenocarcinoma
+
+    GSM803766: Value for GSM803766: LC:EKVX [118203hp13
+    3a11]; src: Adenocarcinoma
+
+    GSM803767: Value for GSM803767: LC:HOP_62 [118204hp
+    133a11]; src: adenocarcinoma
+
+    GSM803768: Value for GSM803768: LC:HOP_92 [118205hp
+    133a11]; src: Large cell
+
+    GSM803769: Value for GSM803769: LC:NCI_H23 [118207h
+    p133a11]; src: Adenocarcinoma
+
+    GSM803770: Value for GSM803770: LC:NCI_H322M [11820
+    8hp133a11]; src: Small cell Bronchioalveolar Carcinoma
+
+    GSM803771: Value for GSM803771: LC:NCI_H460 [118209
+    hp133a11]; src: Large Cell Carcinoma
+
+    GSM803772: Value for GSM803772: LC:NCI_H522 [118210
+    hp133a11]; src: Adenocarcinoma
+
+    GSM803773: Value for GSM803773: OV:IGROV1 [118211hp
+    133a11]; src: Cystoadenocarcinoma
+
+    GSM803774: Value for GSM803774: OV:OVCAR_3 [118212h
+    p133a11]; src: Adenocarcinoma
+
+    GSM803775: Value for GSM803775: OV:OVCAR_4 [118213h
+    p133a11]; src: Adenocarcinoma
+
+    GSM803776: Value for GSM803776: OV:OVCAR_5 [118214h
+    p133a11]; src: Adenocarcinoma
+
+    GSM803777: Value for GSM803777: OV:OVCAR_8 [118215h
+    p133a11]; src: Carcinoma
+
+    GSM803778: Value for GSM803778: OV:SK_OV_3 [118216h
+    p133a11]; src: Adenocarcinoma
+
+    GSM803779: Value for GSM803779: PR:DU_145(DTP) [118
+    217hp133a11]; src: Adenocarcinoma-prostate; metastatic site: brain; carcinoma
+
+    GSM803780: Value for GSM803780: PR:PC_3 [118218hp13
+    3a11]; src: Adenocarcinoma-prostate; metastatic site: bone;
+
+    GSM803781: Value for GSM803781: ME:LOXIMVI [118219h
+    p133a11]; src: Malignant amelanotic melanoma
+
+    GSM803782: Value for GSM803782: ME:M14 [118220hp133
+    a11]; src: Melanotic melanoma
+
+    GSM803783: Value for GSM803783: ME:MALME_3M [118221
+    hp133a11]; src: Malignant melanotic melanoma
+
+    GSM803784: Value for GSM803784: ME:SK_MEL_2 [118222
+    hp133a11]; src: Malignant melanotic melanoma
+
+    GSM803785: Value for GSM803785: ME:SK_MEL_5 [118224
+    hp133a11]; src: Malignant melanotic melanoma
+
+    GSM803786: Value for GSM803786: ME:UACC_257 [118225
+    hp133a11]; src: Melanotic melanoma
+
+    GSM803787: Value for GSM803787: ME:UACC_62 [118226h
+    p133a11]; src: Melanotic melanoma
+
+    GSM803788: Value for GSM803788: BR:T47D [118227hp13
+    3a11]; src: infiltrating ductal carcinoma
+
+    IDENTIFIER: identifier
+
+    ID_REF: Platform reference identifier
+
+0: ID_REF	IDENTIFIER	GSM803615	GSM803674	GSM803733	GSM803616	GSM803675	GSM803734	GSM803617	GSM803676	GSM803735	GSM803618	GSM803677	GSM803736	GSM803619	GSM803678	GSM803737	GSM803620	GSM803679	GSM803738	GSM803621	GSM803680	GSM803739	GSM803622	GSM803681	GSM803740	GSM803623	GSM803682	GSM803741	GSM803624	GSM803683	GSM803742	GSM803625	GSM803684	GSM803743	GSM803626	GSM803685	GSM803744	GSM803627	GSM803686	GSM803745	GSM803628	GSM803687	GSM803746	GSM803629	GSM803688	GSM803747	GSM803630	GSM803689	GSM803748	GSM803631	GSM803690	GSM803749	GSM803632	GSM803691	GSM803750	GSM803633	GSM803692	GSM803751	GSM803634	GSM803693	GSM803752	GSM803635	GSM803694	GSM803753	GSM803636	GSM803695	GSM803754	GSM803637	GSM803696	GSM803755	GSM803638	GSM803697	GSM803756	GSM803639	GSM803698	GSM803757	GSM803640	GSM803699	GSM803758	GSM803641	GSM803700	GSM803759	GSM803642	GSM803701	GSM803760	GSM803643	GSM803702	GSM803644	GSM803703	GSM803761	GSM803645	GSM803704	GSM803762	GSM803646	GSM803705	GSM803763	GSM803647	GSM803706	GSM803764	GSM803648	GSM803707	GSM803765	GSM803649	GSM803708	GSM803766	GSM803650	GSM803709	GSM803767	GSM803651	GSM803710	GSM803768	GSM803652	GSM803711	GSM803653	GSM803712	GSM803769	GSM803654	GSM803713	GSM803770	GSM803655	GSM803714	GSM803771	GSM803656	GSM803715	GSM803772	GSM803657	GSM803716	GSM803773	GSM803658	GSM803717	GSM803774	GSM803659	GSM803718	GSM803775	GSM803660	GSM803719	GSM803776	GSM803661	GSM803720	GSM803777	GSM803662	GSM803732	GSM803778	GSM803663	GSM803721	GSM803779	GSM803664	GSM803722	GSM803780	GSM803665	GSM803723	GSM803781	GSM803666	GSM803724	GSM803782	GSM803667	GSM803725	GSM803783	GSM803668	GSM803726	GSM803784	GSM803669	GSM803727	GSM803670	GSM803728	GSM803785	GSM803671	GSM803729	GSM803786	GSM803672	GSM803730	GSM803787	GSM803673	GSM803731	GSM803788	
+1: 1007_s_at	DDR1	7.98588	6.60953	7.28692	6.81414	7.17116	7.22437	8.30001	7.97986	6.8234	7.6717	7.85328	7.01824	7.0996	7.23886	6.59898	8.83064	8.77376	8.52028	7.84667	7.95133	7.78183	8.90544	8.8722	8.97832	11.6973	11.5335	11.7034	8.75721	9.14032	9.09845	9.30533	9.17508	9.34707	8.64293	9.58087	8.49045	8.82108	8.9025	8.93783	9.35847	9.58197	9.74985	8.31064	8.16385	8.41688	9.96506	9.95782	10.3795	9.63593	9.60762	9.6257	10.4555	10.4736	10.5651	10.0442	10.0267	9.84408	10.5599	10.3448	10.2279	10.6413	10.5549	10.8064	10.6196	10.5493	10.6712	10.5977	10.9005	10.6099	9.25875	9.47487	9.22149	9.62217	9.74629	9.21318	8.38768	8.41262	8.76004	9.09491	9.07756	9.62601	9.1983	9.57851	9.2812	9.53735	9.61963	8.7474	8.50689	8.75219	9.09836	9.26096	9.27801	9.19303	9.43988	9.44054	10.0878	10.0899	9.98647	9.31998	9.33415	9.2809	9.8962	9.84829	10.02	9.27984	9.55835	8.78506	9.04611	9.24392	8.5358	9.4359	9.55854	9.57519	9.50803	9.74837	10.9953	11.0239	10.521	8.69829	8.5868	8.88039	8.12812	8.09722	7.93284	9.52993	9.25334	9.51921	10.0386	10.1517	10.2586	9.17566	9.48343	9.43779	9.78788	9.94327	9.86036	9.03969	9.17217	9.25954	8.78748	8.67816	8.58786	9.91583	9.97978	10.0052	8.5804	8.64507	9.00299	8.49875	8.50453	8.8978	8.28334	8.46503	8.90976	9.92011	9.92392	9.94722	8.94681	8.97943	9.3671	7.44388	7.37205	8.77275	8.90279	8.76158	8.87174	9.05203	9.02302	7.90743	7.85594	6.90531	10.799	10.8054	10.9599	
+2: 1053_at	RFC2	8.91259	8.95833	8.78347	8.68783	8.47835	8.87411	8.48144	8.44854	8.00108	8.06129	8.10341	8.86258	8.28956	8.34828	8.41111	9.15545	9.16948	9.13813	8.52216	8.39999	8.60398	7.1282	7.16325	7.10259	8.03158	8.56901	7.83041	8.23523	9.31052	9.5636	8.47063	8.52565	8.83746	7.97395	8.54821	8.00605	8.77446	8.71831	8.76751	8.10126	7.85159	8.85977	8.02002	8.00216	7.3909	8.95292	8.84865	9.04591	8.36033	8.37426	8.43475	7.81457	7.67602	7.69874	8.93721	8.9339	8.91778	8.79757	8.72724	8.66018	8.25044	8.03625	8.25592	7.75877	7.68049	7.74992	7.34629	7.07491	7.329	8.56812	8.64902	8.74671	8.26291	8.07886	8.70876	8.42972	8.28879	7.33649	8.10812	8.05349	8.69033	7.65211	7.34666	8.89703	6.86935	6.58314	8.16872	8.05385	8.31981	6.96267	6.80006	6.82364	7.7889	7.74844	7.73543	7.19036	7.3426	7.35447	8.28366	8.38117	7.90067	7.98269	8.17684	7.95138	7.66829	7.80136	8.70782	8.08339	8.01968	8.79543	7.61579	7.80496	8.84534	8.72721	8.73937	7.05269	7.22386	6.82039	9.08874	9.19471	9.10566	9.14127	9.11388	9.19483	8.16689	8.24161	8.12152	7.97397	7.96872	8.03742	8.27189	8.09141	7.95164	7.90524	7.93402	7.74701	8.66086	8.60513	8.75896	6.53977	8.41083	8.1389	7.96122	7.83011	7.80054	6.53532	6.65642	6.60617	8.41727	8.56118	7.89023	9.37519	9.32615	9.14874	9.42721	9.33234	9.35117	9.34819	9.41657	9.24858	7.53708	7.48886	9.10731	9.14259	9.01109	7.99229	7.89066	7.78652	7.38044	7.94416	8.20352	7.82165	7.71562	7.79544	
+3: 117_at	HSPA6	5.95818	5.9552	4.75223	4.96283	5.01497	4.78948	4.66964	4.70403	4.69634	4.77096	5.07881	5.25783	4.76633	4.62622	4.71631	6.26592	6.53746	6.57206	4.60538	4.7609	4.83972	5.08158	5.10953	5.37979	5.02392	4.68374	5.60503	7.57421	4.84986	4.8855	4.9403	4.8005	4.85575	4.75512	4.90023	4.80989	4.60067	4.82164	4.7301	4.89635	4.82358	5.00076	4.79993	4.78444	4.77965	4.94366	4.92876	5.02441	4.9813	4.84714	5.02628	4.67718	4.83441	4.95541	4.75868	4.92018	5.14648	4.77936	4.93704	4.82366	4.85592	4.93044	4.72152	4.89658	4.83251	4.87624	4.73036	4.98177	4.71737	5.11596	5.15166	5.08893	4.79218	4.86043	4.77892	4.74068	4.86023	4.71678	5.27593	5.36413	5.25696	4.58138	4.81469	4.83454	4.64529	4.84492	4.83875	5.03971	5.09828	4.65604	4.67038	4.6977	4.72574	4.76421	5.06605	4.68275	4.653	5.03705	5.08881	4.84863	4.74801	4.76976	4.68177	4.6721	4.55301	4.75888	4.71572	4.91237	5.19577	4.9843	4.71919	4.88267	4.93614	4.99919	4.91405	4.90798	4.94247	5.05877	4.81879	4.77344	4.89178	4.59412	4.82994	4.7035	4.68534	4.7962	5.12631	4.87688	4.59331	4.90873	4.76148	4.71423	4.90161	4.68267	4.57243	4.68461	4.81708	4.84752	4.94351	4.57886	4.39332	4.90655	4.81988	4.9191	5.01477	6.43638	6.49998	6.67019	5.07595	4.87328	4.81749	5.62655	5.63933	4.99073	5.64642	5.81603	5.71209	5.96201	6.10252	5.40939	5.34995	5.64755	5.3063	5.22828	5.32821	5.22383	5.24615	4.89699	5.5685	4.93727	5.18978	5.01333	4.98273	4.97768	
+4: 121_at	PAX8	7.25647	7.34984	7.03978	7.23067	7.63878	7.45663	7.60143	7.56602	7.27995	7.72512	8.09685	7.8255	7.78146	7.89176	7.5984	7.50742	7.60422	7.5756	7.59214	7.64121	7.72563	7.38292	7.31098	7.1515	7.61873	7.72867	7.76086	7.69995	8.60788	9.07909	7.57886	7.80053	7.60925	7.23072	7.44112	7.54419	7.2752	7.51679	7.43727	7.35637	7.37582	7.44042	7.01289	7.19171	7.09156	7.41675	7.37547	7.55363	7.26298	7.31134	7.34165	7.40834	7.39202	7.42262	7.69765	7.90455	8.16485	7.51886	7.71048	7.81114	7.53439	7.84801	7.65642	7.56078	7.56565	7.51897	7.68262	7.90417	7.73797	7.47687	7.72709	7.37865	7.75278	7.83489	7.84638	9.29607	9.13335	8.86856	8.55122	8.67774	8.5656	9.83422	10.2651	9.72584	9.10971	9.01537	9.70878	9.57623	9.64363	7.80508	8.03154	7.96988	9.7424	9.69476	9.69079	9.71988	9.75847	9.80226	7.24281	7.37644	7.46852	7.16264	7.15901	6.87999	7.2973	7.23322	7.19052	7.63477	7.85493	7.49435	7.3513	7.52951	7.66438	7.6725	7.68208	7.47813	7.14777	7.24332	7.29003	7.40262	7.53638	7.54796	7.63194	7.71814	11.0368	10.8106	10.3642	10.051	10.2386	10.1675	9.11124	9.37195	9.21581	7.67548	7.85104	7.64977	8.40595	8.62515	8.58941	9.48601	9.21473	9.60994	7.18978	7.16633	7.27949	7.70345	7.64704	7.5669	7.47098	7.35828	7.33545	7.29391	7.12124	7.25849	7.54386	7.50091	7.67865	7.45536	7.19612	7.32178	7.17295	7.25687	7.53538	7.50101	7.44675	7.36011	7.30075	7.23286	7.3711	7.40892	7.23629	7.2943	7.2762	7.45836	
+5: 1255_g_at	GUCA1A	2.70294	2.72227	2.66169	2.79379	2.97056	2.62163	3.09889	2.87228	2.76879	2.61374	2.71795	2.57838	2.73283	2.85121	2.7213	2.74502	2.72214	2.84897	2.49055	2.85141	2.76056	2.54944	2.67298	2.71116	2.73284	2.69916	2.68003	2.69939	2.62129	2.85773	2.58547	2.71085	2.75646	2.91274	2.72525	2.80727	2.72865	2.63762	2.8145	2.73541	2.75909	2.73584	2.6613	2.68444	2.63058	2.73602	2.8672	2.93663	2.73054	2.74002	2.61172	2.68132	2.53772	2.60104	2.83744	2.7471	2.7447	2.7856	2.8074	2.61527	2.77041	2.88291	2.69457	2.70126	2.7621	2.57766	2.74218	2.78508	2.67025	2.89835	2.7659	2.68745	2.61444	2.62564	2.76	2.60989	2.829	2.75194	2.54901	2.77609	2.72319	2.50402	2.76893	2.71653	2.69762	2.57134	2.76973	2.75649	2.51786	2.72604	2.80116	2.73731	2.72242	2.7151	2.61252	2.79444	2.7155	2.63336	2.78319	2.73774	2.56452	2.62253	2.64553	2.51225	2.67257	2.81425	2.80105	2.73153	2.56336	2.81679	2.63585	2.71877	2.62614	2.57844	2.6485	2.64085	2.71499	2.49327	2.74371	2.83469	2.71316	2.63851	2.83824	2.80851	2.69001	2.74518	2.7699	2.77302	2.66198	2.625	2.70127	2.77801	2.58645	2.74844	2.9272	2.63068	2.7138	2.7813	2.56276	2.63903	2.68901	2.51763	2.52938	2.7667	2.62586	2.76084	2.86053	2.52184	2.71849	2.70295	2.81951	2.67765	2.6887	2.85741	2.80049	2.69297	2.7822	2.88446	2.81052	2.6679	2.7193	2.7789	2.73973	2.83838	2.91059	2.67582	2.74977	2.68969	2.85014	2.794	2.74596	2.74609	2.75365	2.57236	
+6: 1294_at	UBA7	7.31083	6.82958	6.80481	6.90361	6.70489	6.91785	7.13163	6.81091	7.02551	6.80386	6.79402	5.83511	7.68641	7.28105	7.54141	6.07821	6.01597	6.07147	5.67068	5.60903	5.87576	6.76333	6.85297	6.94228	5.6545	5.58339	5.63625	5.75118	5.81073	6.09154	6.54589	6.80001	6.84205	6.28794	5.87591	6.3957	6.01201	6.18202	6.14734	6.95785	7.25429	6.90191	7.8981	7.55237	8.40449	5.63682	5.71894	6.03581	6.69558	6.73757	7.12669	6.56271	6.95821	7.02014	5.91997	5.93168	6.13057	5.75018	5.8237	6.26459	5.34338	5.99267	5.80114	5.99517	6.13399	6.21008	6.10482	6.33812	6.4099	5.59545	5.63756	5.83248	5.39295	5.71358	5.54073	6.95289	6.96659	6.3447	6.07498	6.13258	6.42083	6.5989	7.01432	6.30289	6.23531	6.34225	6.65547	6.24954	6.82653	7.35999	7.50534	7.71187	5.79882	5.67994	5.99697	6.7001	7.39688	7.62148	5.52456	5.66491	5.71796	5.61948	5.67114	5.16794	6.86414	7.06817	6.07393	6.30701	6.56576	6.28009	7.32405	7.72105	5.33485	5.12092	5.4433	5.87572	5.74536	5.64392	5.75341	5.70914	5.98656	5.57506	5.2625	5.5913	5.86905	5.61	5.99412	6.34083	6.39894	6.26809	5.32195	5.31971	5.69222	6.53185	6.68893	6.71725	6.01669	5.86045	6.01907	5.58615	5.43673	5.80002	5.27419	5.42909	5.58232	5.5623	5.51368	5.66526	5.66549	5.36185	6.06049	6.22099	6.18884	6.22491	6.26607	6.41365	6.66558	5.96664	6.28936	6.31121	6.2515	6.21112	5.59144	5.61073	5.6642	5.72514	5.78299	6.04471	6.13796	6.314	6.05864	5.60269	5.75826	5.37942	
+7: 1316_at	THRA	4.93041	5.11308	5.10009	4.89782	5.29439	5.59378	5.0277	5.12112	5.04165	5.12225	5.26436	5.30384	5.073	4.93364	4.95922	5.12657	5.18271	5.0331	4.92978	4.98465	4.88259	4.94808	5.07394	4.85585	5.00911	4.8232	5.39727	4.98389	5.08912	5.01142	5.05723	5.05348	4.86752	5.05807	4.93294	5.06921	4.95812	5.11232	5.0188	5.10312	5.28337	5.24659	5.03157	5.15367	5.31162	5.15323	5.17469	5.14923	5.04629	5.04798	5.00434	5.07048	5.04436	5.09123	5.16812	5.17736	5.19247	4.76607	5.07041	5.11363	4.9958	5.21099	5.10633	4.96755	5.0748	5.00894	4.99533	5.2158	5.04773	4.96024	5.03912	4.98212	4.99287	4.86078	4.82965	5.08166	5.17115	5.12143	4.93423	5.21083	4.93486	4.83505	5.20872	4.83673	4.83281	4.98078	5.00996	5.02612	4.99587	4.88187	4.82396	5.13427	5.0534	5.13161	4.87944	4.82402	5.14809	4.992	5.14571	5.10873	5.20298	5.35526	5.19141	5.09313	5.03531	5.11157	4.78594	5.11052	5.14051	5.01362	5.1164	5.04591	4.89262	4.93848	4.86945	5.0999	4.89589	4.91188	4.95363	5.1259	5.04802	5.03206	5.10879	5.11235	5.04259	4.92841	5.00983	5.01985	5.14226	5.01695	4.95623	5.03707	5.10229	5.08672	5.09761	5.01099	4.94566	4.93976	4.92263	5.06677	5.43235	5.01804	5.13616	5.12899	5.0772	4.98819	4.89106	4.96894	5.05287	4.96376	4.89242	4.92361	5.04308	5.03523	5.01839	4.88067	4.81252	5.24537	5.05213	5.00284	4.89583	4.77262	5.17782	4.97755	5.22647	4.95618	4.93654	4.89798	5.21022	5.05442	4.82215	5.06189	5.06892	5.12425	
+8: 1320_at	PTPN21	4.501	4.64615	4.2909	4.54651	4.84493	4.91017	4.63009	4.51473	4.48018	4.64093	4.76652	4.58888	5.23871	5.44797	5.40837	4.61001	4.64741	4.62917	5.25689	5.38518	5.0678	5.67095	5.45562	5.367	4.56059	4.88897	4.88681	5.76311	5.41947	5.22472	5.60954	5.58441	5.11221	5.13309	4.8808	4.7819	5.61248	5.43611	5.55108	5.06205	5.0155	4.78537	5.22594	5.3454	5.0467	5.1412	5.22126	4.78235	5.35136	5.50969	5.27635	5.26862	4.95337	5.061	4.70262	4.56883	4.70015	4.89649	4.9423	4.86664	4.98141	5.13249	5.01823	5.14327	4.90379	4.63283	5.19692	4.94725	4.68208	4.81828	4.66878	4.73573	5.10773	5.15936	4.84868	5.72497	5.47736	5.46073	5.56439	5.23826	4.8842	5.30766	4.8424	4.94911	5.08217	4.77447	5.30813	5.61408	5.28045	5.31239	5.43749	5.30535	4.97634	4.82453	5.00017	5.55613	5.21531	5.12709	5.31878	4.96986	4.82338	5.27647	5.08694	5.10972	5.37985	5.34145	5.36034	4.97811	4.82208	5.18537	5.2016	5.10347	4.69639	4.76711	4.61742	4.98883	5.02767	5.22569	4.75646	4.7239	4.70382	5.57951	5.32947	5.19916	5.22976	5.42115	5.2217	5.26727	5.40539	5.20479	5.19861	5.12309	5.09054	4.91432	5.16681	5.01456	5.06416	5.16856	5.02522	5.23069	5.11626	5.23112	4.81763	4.85912	4.78553	5.40318	5.46161	5.15191	5.58873	5.56449	5.27117	4.82378	4.68588	4.77627	5.08174	4.79747	4.72985	5.61073	5.29528	5.38685	4.84935	4.75358	4.86923	4.78848	4.75552	4.94553	4.88351	4.70718	4.99506	5.05993	4.67237	6.08088	5.79077	5.77652	
+9: 1405_i_at	CCL5	2.79874	2.72531	2.78749	7.99732	7.48446	3.85727	2.98083	2.59004	3.84294	7.93142	7.1266	5.52108	2.80685	3.00469	2.68492	2.9146	2.8517	2.82093	7.26959	7.10675	7.51524	4.05439	3.53308	3.5122	2.71997	2.95179	2.85315	2.95216	2.8431	2.73195	2.90837	2.86954	2.98617	2.86135	2.87469	2.4733	2.97563	2.83011	2.72992	2.85665	3.00733	2.70973	5.78279	5.90405	4.73546	2.71196	2.87368	2.88593	4.34958	4.14683	3.9106	2.69482	2.78144	2.72632	2.67207	2.84764	2.91004	3.89211	3.58067	3.28471	2.7237	2.90553	2.94518	2.77485	2.61809	2.90608	3.68554	3.60036	3.14444	2.87807	2.89184	2.89154	2.85213	2.76025	2.73411	3.0228	2.96675	2.91231	6.64897	6.51284	5.28198	2.85577	2.80837	2.68155	5.3348	4.94742	5.67842	5.14991	4.83203	3.45985	3.41292	3.11316	2.80139	2.83304	2.71844	2.7611	2.87897	2.64102	2.98451	2.54007	2.79168	2.57103	2.79156	2.57813	3.17641	3.62531	3.24268	4.19756	4.13097	3.71032	8.13389	8.07204	3.32156	3.75481	3.15365	4.64285	5.13548	4.72034	3.1791	3.16889	2.89138	2.93965	2.85456	2.59562	3.00638	3.10674	2.6914	2.83275	2.89886	2.60734	2.75162	2.96326	2.88827	2.9334	2.9653	2.73467	2.72801	2.68844	2.73447	2.72946	2.64829	2.75896	3.03531	2.93706	2.81363	3.00139	2.84963	2.74037	4.45668	4.3067	4.39296	2.95394	2.91426	2.79425	2.89333	2.77115	2.88021	3.03896	3.22746	3.06906	3.03308	2.93402	3.14472	3.04306	2.85701	2.8381	2.88101	2.94014	2.68415	3.07803	2.87142	2.82145	2.79442	2.7854	
+10: 1431_at	CYP2E1	4.59458	4.15717	3.97899	3.83886	3.69931	3.68139	3.50744	3.81224	3.21704	3.29315	3.19654	3.43514	3.21441	3.10458	3.09738	3.16181	3.28691	3.05714	3.09472	3.12945	3.18892	3.48549	3.4204	3.62164	3.305	3.19727	3.32265	4.35626	3.13793	3.146	3.21438	3.11266	3.01182	3.21298	3.38404	3.20529	3.10281	2.98459	3.20372	2.95297	3.12093	3.18142	3.07251	3.13785	3.32522	3.42754	3.6089	3.81837	3.14868	3.16056	3.19424	3.8831	3.60437	4.10842	3.30578	3.2613	3.36888	3.23908	3.29474	3.63128	3.21759	3.24126	3.23722	3.35895	3.1299	3.09637	3.1056	3.45798	3.17426	3.9959	4.12085	4.67484	3.32455	3.86569	3.45333	3.34605	3.52025	4.12855	3.27711	3.26381	3.11248	3.13899	3.27544	3.03355	3.07507	2.96611	3.30926	3.48945	3.15793	3.63553	3.90695	3.79221	3.12629	3.07498	3.36944	3.15647	3.13548	3.16004	3.13527	3.01111	3.21472	3.13754	3.10758	3.00699	3.12788	3.04007	3.04807	3.33403	3.19276	3.25912	3.26682	3.18843	4.42919	4.23414	4.40448	3.53549	3.82971	3.43124	3.41527	3.62598	3.41062	3.32708	3.20433	3.24834	3.46722	3.57153	3.49623	3.04707	3.07979	3.16631	3.51884	3.56575	3.23214	3.26152	2.98452	3.17807	3.29252	3.63656	3.18805	3.13923	3.15288	3.25054	3.26247	3.2235	2.98082	3.33473	3.31114	3.31681	3.30025	3.34099	3.25229	3.06201	3.01835	3.08027	3.11868	3.21399	3.09388	3.41435	3.19602	2.98473	3.11706	3.39591	3.25626	3.13758	3.04485	3.31315	3.07488	3.16773	3.21466	3.11983	3.17668	3.28086	3.17287	3.15976	
+11: 1438_at	EPHB3	5.09353	5.15214	4.80889	5.15268	5.56485	5.32077	5.57967	5.23346	5.09841	5.58141	5.32294	5.27529	5.43222	5.3941	5.0261	5.11091	5.26596	5.04348	5.42197	5.27336	5.16818	5.58877	5.55932	5.48191	6.04717	6.48215	5.91612	5.25132	5.67747	5.70801	5.68746	5.73872	5.74592	5.40463	6.58527	5.6798	5.38771	5.30595	5.29001	5.64524	5.58149	5.88034	6.70792	6.45876	6.39491	6.84794	6.93259	7.15405	6.09417	6.15153	5.93391	7.18368	7.28692	7.08937	8.14227	8.27094	8.09227	5.44176	5.5277	5.94893	5.6994	5.91837	5.70666	5.7978	6.00459	5.82405	5.71994	6.00818	5.74102	5.48438	5.77717	5.76093	6.47196	6.74938	6.41648	5.17303	5.14621	5.34894	5.14338	5.13063	5.2532	5.0851	5.18926	5.35665	5.04378	5.21768	5.21384	5.15827	5.27566	5.25833	5.44143	5.50373	5.27259	5.25337	5.27762	4.96697	5.10426	5.16972	5.62471	5.97519	5.4	5.40221	5.33472	5.38037	5.01307	5.13289	5.11865	5.36258	5.2414	5.24688	5.34081	5.31587	5.23033	5.25661	5.26762	6.68787	6.76845	6.6773	5.2413	5.51226	5.53829	5.65917	5.86102	5.36835	5.49787	5.37948	5.3597	5.58427	5.50904	5.99964	5.34295	5.50931	5.34028	6.01829	6.11391	6.11277	5.35624	5.44965	5.32426	5.34812	5.14145	5.40768	5.84974	5.83029	6.10906	5.16725	5.22755	5.14342	5.62676	5.4725	5.23103	5.171	5.31967	5.35271	6.14731	6.0351	6.23631	5.24348	5.62969	5.56563	5.09345	5.12082	5.32836	5.45186	5.37333	5.55331	5.49659	5.46449	5.88545	6.35712	7.01569	6.81492	6.66457	7.04593	
+12: 1487_at	ESRRA	7.34069	7.16101	7.04883	8.26135	8.29206	7.77211	7.43002	7.21473	8.18695	9.47178	9.34472	8.15981	7.41411	7.35533	7.22434	8.44657	8.42998	8.27837	7.37246	7.51964	7.32624	7.78367	7.79755	7.61754	7.91454	8.34589	8.05903	7.8682	7.52377	7.22488	7.89101	7.95727	7.66875	9.30169	8.46834	9.19688	7.23691	7.18659	7.09309	7.51721	7.48463	7.19092	6.45322	6.40309	6.18919	7.34481	7.27744	7.29593	6.77669	6.81652	6.64454	7.10236	7.06457	6.70883	8.1825	8.22361	7.90713	8.67586	8.89865	8.65893	8.08125	8.21077	8.15549	8.40514	8.38921	8.30352	9.16814	9.2999	9.15026	8.89784	9.02813	8.9901	8.54773	8.61173	8.05875	6.75946	6.85253	7.41897	7.93117	7.97837	7.07595	7.14613	7.19448	7.46443	7.36273	7.5532	6.69212	6.51852	6.78613	7.3572	7.44676	7.36993	7.43937	7.66659	7.53445	7.62209	7.75198	7.29436	7.70956	7.77754	7.75933	7.88425	7.92027	7.84524	6.77619	6.98446	7.08732	7.82572	7.96933	7.4535	7.37411	7.34295	6.8811	6.78268	6.88312	8.43418	8.61304	7.96134	7.92569	8.06016	7.81447	7.8557	7.93646	7.80895	7.29801	7.45592	7.17134	7.99905	8.0956	7.84387	8.46566	8.72762	8.58899	7.61937	7.7489	7.41155	7.43051	7.60478	7.43362	7.59943	6.53926	6.83097	7.26351	7.2959	7.25788	8.0948	8.40223	8.29463	8.42885	8.36834	8.10554	7.55998	7.74051	7.67036	6.75733	6.79664	6.89584	7.07681	7.26684	6.82598	7.14817	7.07143	8.14706	8.1736	8.21599	7.64701	7.84422	7.48882	7.35346	7.72248	7.42224	7.70897	7.84136	7.62618	
+13: 1494_f_at	CYP2A6	4.97745	4.94692	5.14544	4.96012	5.18195	5.18651	4.6877	4.96676	4.98107	4.97795	5.0137	5.05356	5.02128	5.09368	4.77691	5.28798	5.10417	4.98917	5.14324	5.0657	4.84782	4.88666	5.17935	4.73714	5.10567	5.02996	5.13116	4.7869	5.20318	5.07621	5.106	5.24925	5.07411	5.09602	4.95093	4.90612	4.94136	5.15251	5.10877	4.96665	5.11625	4.86733	5.02625	5.11439	5.06589	5.09001	5.00874	5.19201	5.27239	5.06626	4.90901	5.08295	4.89627	5.02485	5.08601	4.99819	5.0621	4.95173	5.21716	5.03547	4.9	5.20419	4.79655	5.01477	4.9782	4.84815	4.85662	5.16331	4.96706	4.95933	5.09858	4.91093	4.98224	4.95044	4.8917	5.39704	5.18755	4.89045	4.96921	5.06476	5.07666	5.00366	5.25882	5.02526	5.01645	5.17039	5.3346	5.58412	5.20149	4.76709	5.304	5.00079	4.8865	4.98618	5.12151	4.80994	5.049	5.07066	5.26355	4.79794	4.92805	4.85692	5.06498	4.77012	5.02107	4.89048	4.93843	5.22467	4.99915	5.15397	4.8901	4.94169	4.9827	4.95528	4.75022	5.35295	5.02976	4.85519	5.01428	4.99281	5.00457	5.02542	5.2383	5.09802	5.38746	5.06938	5.20184	5.0318	5.36116	5.00642	5.03514	5.24805	5.20166	5.15081	5.17695	4.79888	4.96637	5.06584	4.73952	5.06256	4.77653	4.94818	5.24712	5.02508	4.80516	5.46744	5.20718	4.81476	5.46391	4.89729	4.99092	4.85375	4.89745	4.98427	5.15562	5.02769	5.07599	4.99489	4.94608	4.48075	4.76488	5.1973	5.19493	5.28322	4.94514	4.96861	4.78113	4.80133	5.1176	5.19618	5.02299	4.99437	4.71474	5.04172	
+14: 1552256_a_at	SCARB1	7.23941	6.84414	7.64713	8.47733	8.3731	8.21445	7.00236	7.00262	7.19534	9.36094	9.04421	9.44992	7.12934	6.96563	6.92746	8.14669	8.13722	8.38812	7.1239	7.03783	7.33054	6.56464	6.33232	6.43051	7.54957	8.3259	7.53444	6.33653	7.56967	7.20043	7.42242	7.53009	7.32903	9.48663	8.36435	8.82412	7.23073	7.03184	6.76923	8.28481	8.5004	8.27413	7.66662	7.60632	7.17719	6.88952	6.98986	6.65563	7.94431	8.02534	7.68326	9.41166	9.53623	9.0766	9.59627	9.60459	9.31579	7.76562	7.78706	7.70174	8.44595	8.67113	8.54386	8.19804	8.40122	8.11183	8.20277	8.60794	7.86063	8.49299	8.68848	8.37917	8.41078	8.69099	7.87334	7.61876	7.66079	7.88598	8.69385	8.7785	8.62247	7.14327	7.31393	7.2724	9.36548	9.39831	8.69183	8.51325	8.31458	7.93129	7.71067	7.74275	8.69169	8.99196	8.75989	7.53822	7.55648	7.32378	9.00024	9.03098	8.84628	8.33701	8.41501	8.12917	8.30688	8.56685	8.13151	8.28592	8.42351	8.19806	8.34177	8.54352	7.05872	7.21468	7.38504	6.73852	6.79146	6.25989	10.3452	10.2777	10.289	7.40625	7.33642	7.30599	8.25324	7.97936	7.91312	6.91946	7.34102	7.06153	7.03881	7.20389	7.06971	7.63313	7.68158	7.57375	7.68496	8.18479	7.53351	7.73522	7.03353	7.68031	8.54865	8.73779	8.6171	8.57953	8.94045	8.93107	7.43183	7.74056	7.67985	10.0456	10.4611	10.3713	9.64895	10.106	9.93333	9.81617	10.0283	10.0407	9.45434	9.40959	10.3962	10.4739	10.5567	8.63331	9.02544	8.51788	9.44211	10.5291	10.7583	8.58695	8.86289	8.50133	
+15: 1552257_a_at	TTLL12	8.73866	8.60948	8.82209	8.74712	8.69143	8.90705	8.9584	8.86203	8.29153	9.37541	9.07591	9.61399	8.13291	7.70689	7.64256	9.127	8.9616	8.90198	8.06894	8.04504	8.05133	8.52605	8.56751	8.36845	7.95293	8.28333	7.88622	7.11052	7.92263	7.91497	8.13728	7.96098	7.76398	8.73218	8.38368	8.25266	7.80449	7.83724	7.53334	8.39565	8.59278	8.03002	7.25387	6.75317	6.56826	8.19089	8.22222	7.94358	7.82319	7.77117	7.35759	8.24475	8.22951	7.96342	9.84876	9.93132	9.62161	9.42953	9.43341	9.34446	8.99018	8.97424	9.03867	8.95849	8.86926	8.70363	8.2491	8.48457	8.08655	9.16775	9.16515	8.97314	9.30865	9.22221	8.79287	7.75811	7.5676	7.36508	7.6079	7.62989	7.42471	7.94254	8.10807	7.70972	8.16268	8.1961	8.26905	8.08367	8.01331	6.90427	7.12883	6.75278	8.26627	8.47424	8.235	7.19511	7.73077	7.42016	7.51291	7.52952	7.01925	8.39005	8.53441	8.21115	8.30399	8.66968	8.4933	8.75056	8.82955	8.40319	6.67532	7.15424	7.19678	7.40911	7.32124	8.42503	8.57326	7.61002	9.39019	9.51095	9.31115	8.3867	8.59543	8.3209	8.37154	8.46302	8.58076	7.33759	7.63494	7.38502	8.47	8.72912	8.59207	7.06252	7.3798	7.2545	7.73484	8.1854	7.77096	8.15241	7.73009	8.13527	8.13334	8.40556	8.15419	8.56529	8.60933	8.6982	8.47774	8.56239	8.17147	8.44852	8.73671	8.55406	8.07467	8.29752	8.24254	7.83547	7.91675	8.18185	8.54698	8.67683	9.15969	9.15683	9.03275	7.80271	8.1598	7.63973	7.94612	8.49267	8.39055	7.48474	7.61529	7.51072	
+16: 1552258_at	LINC00152	4.1621	4.09652	4.21739	4.16802	4.46064	4.22761	3.92878	3.95978	4.63063	4.32473	4.04683	4.2455	4.72756	4.72441	4.41706	6.73182	7.03138	6.40886	4.04187	4.28131	4.18991	4.35219	4.4397	4.33512	4.06201	4.19978	4.19194	4.36669	4.42673	4.34375	5.41054	5.08043	5.10508	4.24608	4.22099	4.01923	4.27687	4.48159	4.18279	4.30913	4.23025	4.40655	4.18247	4.04088	4.26202	4.38557	4.13605	4.37136	4.32749	4.24123	4.13002	4.28843	4.38415	4.39902	4.21969	4.51364	4.17222	4.23652	4.4161	4.28441	4.0011	4.02122	4.15068	4.16861	4.38117	4.27959	3.85234	4.07962	4.09667	3.93793	4.12981	3.87753	4.28859	4.15466	3.98683	4.26094	4.24804	4.30533	4.10461	4.21584	4.30951	4.18215	4.28512	4.16111	4.46495	4.52588	4.41136	4.19151	4.23785	4.59918	4.74867	4.76242	4.55718	4.44102	4.37114	3.90804	4.40553	3.48772	4.28441	4.31058	4.16644	4.06151	4.04677	4.23865	4.33978	4.67371	4.11859	4.31014	4.34123	4.30938	5.16095	5.09154	4.20023	4.3118	4.39264	4.27009	4.26456	3.9676	4.41025	4.38603	4.3466	4.16235	4.432	4.21057	4.89023	4.88399	4.49614	4.14858	4.46291	4.06648	4.15965	4.30621	4.21063	4.24831	4.61041	4.10596	4.35421	4.59802	4.17586	4.48051	4.4201	4.24913	4.06	4.43097	4.07304	4.3194	4.27371	4.43409	4.29657	4.23823	4.23953	4.48976	4.78678	4.34907	4.44607	4.61109	4.32531	4.40268	4.72116	4.20089	4.45626	4.52018	4.25004	4.44618	4.12891	4.30307	4.51483	4.16801	4.03423	4.23671	4.32768	4.13813	4.30277	4.00542	
+17: 1552261_at	WFDC2	4.22493	4.34841	4.23221	4.73652	4.51018	4.36594	4.26102	4.44875	4.09182	4.70462	4.36966	4.62126	4.3593	4.30547	4.6004	4.41627	4.34494	4.38471	4.31093	4.50361	4.70802	4.23291	4.68675	4.42521	4.2663	4.43483	4.50501	4.53037	4.63028	4.64066	4.41827	4.36761	4.49254	4.30659	4.52438	4.50152	4.35308	4.38297	4.13577	4.30443	4.31091	4.39151	4.50213	4.50137	4.53069	4.33788	4.38686	4.75298	4.22729	4.2788	4.40389	4.64031	4.54547	4.23556	4.33592	4.4734	4.92148	4.23987	4.45093	4.57741	4.21027	4.43535	4.31364	4.27806	4.45408	4.51009	4.49251	4.95702	4.60291	4.19715	4.6042	4.42494	4.33542	4.2916	4.21742	4.34669	4.36039	4.23548	3.9413	4.48782	4.33671	4.42987	4.8544	4.15381	4.13688	4.37058	4.32376	4.89004	4.15325	4.14817	4.67668	4.63009	4.37604	4.35295	4.6275	4.67605	4.31752	4.21024	4.24544	4.33154	4.21777	4.34588	4.4036	4.20473	4.21006	4.26413	4.46515	4.276	4.55864	4.49742	3.98441	4.36882	4.25768	4.52272	4.46626	4.47956	4.43633	4.44239	4.25129	4.40509	4.4288	4.37302	4.47658	4.30225	4.49083	4.52207	4.63888	4.92073	5.18097	5.36362	4.36018	4.39233	4.74561	4.59345	4.39462	4.45098	4.50057	4.36294	4.47612	3.94831	4.1455	4.38721	4.32078	4.87057	4.91838	4.40781	4.4569	4.39351	4.86764	4.36421	4.361	4.36341	4.2096	4.42645	4.31348	4.03801	4.30475	4.38886	4.98188	4.49602	4.31224	4.14633	4.42431	4.41786	4.40094	4.25141	4.42997	4.22542	4.37663	4.43789	4.24162	4.0789	4.124	4.23424	
+18: 1552263_at	MAPK1	6.5981	6.5263	6.302	6.95053	6.70071	6.78629	5.86303	6.26802	6.24	4.33562	4.30431	4.17287	6.3821	6.66102	6.61746	8.58624	8.69249	9.26816	4.84836	4.6209	4.55079	6.14313	6.04115	6.18144	4.55632	4.51493	3.94429	3.71891	5.03875	4.47125	5.46784	5.40627	5.52927	4.90554	4.68919	4.65906	5.6048	5.49483	5.5211	5.45686	5.51624	5.01881	4.15405	3.9595	3.55405	4.93522	4.72444	4.23156	5.2284	5.09581	4.64703	4.91817	4.92436	4.70661	5.11691	5.08615	4.51831	4.54603	4.24881	3.67684	4.69315	4.37047	4.53265	5.67341	5.76975	5.72396	4.94334	4.81776	4.56846	4.98008	5.07492	5.1758	5.19537	5.00809	4.65612	5.22533	5.28186	5.67538	4.18999	3.93862	3.77298	4.47775	4.37721	4.42248	4.03268	4.11361	6.09164	5.77863	6.05518	4.46025	4.42146	4.07957	4.14752	4.16132	3.75428	4.79869	4.64748	4.30861	4.13023	4.18861	3.90796	4.92622	5.05671	5.10372	5.07283	5.20778	5.98342	4.94844	4.9849	4.59509	4.18131	4.28494	4.44031	4.18442	4.37349	4.68027	5.11782	4.62705	4.01645	3.94917	3.95573	5.28585	5.03818	5.16712	5.81352	5.78524	5.73764	5.41798	5.38341	5.44096	5.81546	5.69599	5.71593	4.79494	4.49618	4.68895	4.55272	5.1873	4.78049	5.06704	5.5088	4.86763	4.6427	5.00322	5.03998	3.87452	4.13614	4.33111	4.65269	4.76625	3.5727	5.49282	5.54974	5.07576	5.05038	4.88434	4.66348	3.81109	2.80142	3.3537	6.921	6.77058	4.81897	4.67514	4.70793	5.25721	5.19899	4.71044	5.20229	4.81852	4.69368	4.68263	4.83311	4.30547	
+19: 1552264_a_at	MAPK1	8.36035	8.35371	7.95112	8.45719	8.2014	8.33858	8.14985	8.05737	7.4755	6.3496	6.24948	6.43846	7.87724	7.96863	8.1638	10.4077	10.5162	10.515	7.84122	7.86524	7.73143	8.58532	8.73685	8.73944	7.50144	7.61132	7.46093	7.06193	7.63398	7.75016	7.91159	7.78134	7.93806	7.56651	7.64166	7.48883	8.31628	8.09976	8.30868	8.34342	7.23385	7.95798	7.55743	7.27618	6.75705	7.61012	7.69478	7.11406	7.86656	7.92323	8.03573	7.60076	7.47863	7.60368	7.77632	7.78506	7.63287	7.64991	7.75209	7.57739	8.01699	7.68769	7.99939	8.35771	8.26609	8.42509	7.48379	7.01579	7.51209	7.69412	7.66799	7.85869	7.9532	7.5579	7.42037	8.24253	7.9232	8.09108	6.82906	6.74217	6.99769	7.21818	6.31276	7.69261	6.58976	6.11435	8.20306	7.94534	8.42074	7.64682	7.53179	7.50246	7.32121	7.03619	6.89505	7.38227	7.41563	7.55284	7.49242	6.87922	6.86666	7.94606	7.81728	7.90918	8.17817	7.92834	8.8149	8.10755	7.68707	8.07452	7.16595	6.65339	7.661	7.36016	6.61429	8.66867	8.07293	7.92565	6.87281	7.14674	6.78946	7.66813	7.46513	7.76842	8.39252	8.03394	8.03405	8.29437	7.97223	8.47846	8.25438	7.61208	7.66447	7.31877	6.76983	7.33265	7.69243	6.49881	7.81753	8.24522	8.35897	8.59351	7.63221	7.44997	7.61269	7.08383	7.02527	6.5901	7.57468	7.44137	6.79437	8.6535	7.72359	7.6599	8.00388	7.7869	8.00229	7.26794	6.96734	7.01201	8.90024	8.43133	7.74546	7.79475	7.70331	8.47155	7.8202	8.39776	8.40722	8.14641	7.90871	7.32044	7.18828	7.53282	
+20: 1552266_at	ADAM32	2.73323	2.77539	2.66019	2.7034	2.85521	2.78046	2.7836	2.7796	2.89476	2.94983	3.26691	2.85803	2.75528	2.80978	2.94677	2.94902	2.86786	2.61652	3.04791	3.06439	3.25934	2.8956	2.73256	2.89014	3.38148	4.02851	3.75905	2.97042	2.54937	2.75181	2.6795	2.62891	2.7104	2.86358	3.0357	2.64538	2.91499	2.96577	2.94261	2.61465	2.79324	2.55695	3.05938	2.96325	2.83124	3.11357	3.15324	2.90818	2.89932	2.86641	2.84063	2.79759	2.82908	2.88207	2.91093	3.19229	3.38824	2.82134	2.84343	2.68028	3.01957	3.16428	3.19192	2.94424	2.86078	2.89505	2.98258	2.96749	3.10789	3.12765	3.13682	3.03115	3.01705	2.82001	2.77949	2.90876	2.97917	2.926	2.93647	3.35189	3.15405	2.97903	3.02303	2.93476	2.78681	2.90591	2.90591	3.07689	3.02332	2.68379	2.8995	2.83386	3.25092	2.97682	3.18864	2.93359	2.90365	2.82685	2.74786	2.84354	2.84218	2.97479	3.02215	2.7733	2.9356	2.89865	3.05809	2.88511	3.05626	2.84279	2.69662	3.07126	2.78091	2.99093	2.75877	2.89977	3.20103	2.8692	2.72648	2.75398	3.04895	2.93234	2.71867	2.77866	3.57541	3.27777	3.04341	3.04106	3.18139	2.99826	3.03895	3.14629	2.89941	2.97887	2.98263	3.06778	3.25881	3.04895	3.20604	3.13751	2.88443	2.94973	2.92705	2.95053	2.89666	3.05992	3.09076	2.97266	2.82235	3.32523	2.87682	2.81924	2.99265	2.65295	2.73997	2.697	2.67526	2.91675	3.07322	2.67944	2.76535	2.96672	2.85459	3.13021	3.06949	2.79408	2.72909	2.53864	2.86996	2.81115	2.80782	2.83898	2.86535	2.83808	
+...
+54675: AFFX-TrpnX-M_at	--Control	2.80815	3.09778	2.99015	2.99241	3.01408	3.3891	3.21927	2.76524	2.90549	3.14304	3.1808	3.03961	3.05726	3.05762	3.32106	2.95301	3.06216	3.14622	2.96139	2.9541	3.26399	3.08333	2.89732	3.11495	2.96623	3.05012	2.98872	3.13884	3.00825	3.43048	2.99888	3.03447	3.0927	3.01498	2.92399	3.17034	3.00649	2.998	3.10856	3.06858	2.97754	3.13785	2.96761	3.27738	3.05363	2.8017	2.99844	3.0618	3.06193	3.05239	2.96205	3.03389	3.16649	3.04724	3.04962	3.05856	3.17639	3.04474	2.83779	2.91708	3.00947	2.9459	2.99871	2.85764	2.8754	2.85839	2.95369	3.06621	2.78326	3.05292	3.11474	3.18221	3.01664	3.02103	2.80878	2.98725	2.91808	3.06267	3.04531	3.0414	3.07528	2.83904	2.86647	3.17761	3.12915	3.03569	2.96644	3.26849	3.1114	2.90526	2.86693	3.10543	3.00601	2.89455	3.29833	2.95466	3.00373	2.94482	3.09437	2.98101	3.02005	3.02336	2.78844	2.96005	2.76762	2.88016	3.25894	3.14973	3.05956	3.15668	3.1046	3.19448	2.91312	3.03952	2.83884	2.87665	3.11762	3.03839	2.88031	3.16408	3.02124	3.01498	3.32798	3.19809	2.84704	3.00319	3.0229	2.96227	2.94081	3.10582	2.99115	3.10317	3.04162	3.00163	2.87633	2.9217	3.03823	3.0396	2.92366	2.92008	2.87825	3.05276	2.71769	3.10729	2.85173	3.04931	2.73473	3.03182	3.1108	2.87905	3.18537	3.01778	2.94483	3.03459	3.07652	3.25015	3.19668	2.9984	3.11156	3.11529	3.15063	3.18897	3.0136	3.1584	3.16187	3.16772	3.04544	3.0551	2.97846	3.23143	2.97417	2.99981	2.828	2.8431	
